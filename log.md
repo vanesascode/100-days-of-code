@@ -1,5 +1,6 @@
 # #100DaysOfCode Challenge - Log
 
+
 ### Day 1️⃣: August 4, 2023
 
 **Today's Progress**:  
