@@ -4,7 +4,7 @@
 
 **Today's Progress**:  
 
-I’ve been working on a very simple blog only page. 💻
+I’ve been working on a very simple only one page blog. 💻
 However, I created a google search bar for the first time, which it is seen in the navbar when screen is wide and in the footer when seen in a mobile. 
 🌟 And created a scroll css quite recent effect on the images! (notice that the scroll effect can only be seen in recent Chrome browsers). 
 
