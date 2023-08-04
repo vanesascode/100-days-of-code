@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# #100DaysOfCode Challenge - Log
 
 ### Day 1️⃣: July 4, 2023
 
