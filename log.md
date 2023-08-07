@@ -59,3 +59,67 @@ See progress [HERE](https://vanesascode.github.io/super-form-css-bootstrap-javas
 I don't think in the mobile version the error messages work. So I need to make it work in mobiles as well. 
 
 ***
+
+### Day 4️⃣: August 7, 2023
+
+**Today's Progress**:
+
+I improved the performance of the radios.js and checkboxes.js files by storing all the elements I could outside of the functions, and improved the range input visualization. 
+
+I also noticed that in the mobile version, the form didn’t show the validation messages or even the titles, so I had to think about another option. It took me quite a while, but I made it! 🥳 I added a red border and error message to the inputs of the form that were empty or that didn’t follow their defined RegEx pattern. Well, only to the 6 first inputs…
+
+I did it thanks to:
+
+- A function I created to make sure that no input is empty when the user presses the submit button: validateInput(inputName, alertName)
+- Another function to validate when the user makes changes to the input: function removeInputErrors(input, alert, regex)
+- The stars in this were the “event listeners” of course!!!
+
+To find more info about all this, check my README.md file in the code. It’s all explained [there](https://github.com/vanesascode/super-form-css-bootstrap-javascript)
+
+See progress [HERE](https://vanesascode.github.io/super-form-css-bootstrap-javascript/)
+
+🔹 **HOW TO CONTINUE:** 
+
+Next, I want to spend time finding the way to apply this to the rest of inputs. 
+
+***
+
+### Day 5️⃣: August 8, 2023
+
+**Today's Progress**:
+
+🔹 **HOW TO CONTINUE:** 
+
+***
+
+### Day 6️⃣: August 9, 2023
+
+**Today's Progress**:
+
+🔹 **HOW TO CONTINUE:** 
+
+***
+
+### Day 7️⃣: August 10, 2023
+
+**Today's Progress**:
+
+🔹 **HOW TO CONTINUE:** 
+
+***
+
+### Day 8️⃣: August 11, 2023
+
+**Today's Progress**:
+
+🔹 **HOW TO CONTINUE:** 
+
+***
+
+### Day 9️⃣: August 12, 2023
+
+**Today's Progress**:
+
+🔹 **HOW TO CONTINUE:** 
+
+***
