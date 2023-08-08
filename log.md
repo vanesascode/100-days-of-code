@@ -88,7 +88,15 @@ Next, I want to spend time finding the way to apply this to the rest of inputs.
 
 **Today's Progress**:
 
+Today I didn’t code much in order to show something finished. However, I studied GIT for real, with many tutorials ( I specially recommend the ones by [Simon Bao](https://www.youtube.com/@SuperSimpleDev) and practiced #FeatureBranchWorkflow with classmates in the @4geeksacademy classes ( really important to realise if you really know your commands!). 
+
+👉 These skills are as important as coding if you really want to work in a professional team ❗❗
+
+- Here are all my notes, a [long guide which may be useful to learners like me: ](https://github.com/vanesascode/git-cheatsheet)
+
 🔹 **HOW TO CONTINUE:** 
+
+Next I’d like to learn about interactive rebase, cherry-picking, reflog and more.
 
 ***
 
