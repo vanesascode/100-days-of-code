@@ -104,7 +104,15 @@ Next I’d like to learn about interactive rebase, cherry-picking, reflog and mo
 
 **Today's Progress**:
 
+Super form finished for now! 🎉 I achieved all my current goals with it and now all compulsory inputs (both text and select ones)  turn red and give you a message in case you want to send the form and they are empty or not filled as #RegEx or other rules are set (as for example, that the confirmation password is the same as the initial password) 💻  Lots of #javascript you’ll find explained in the readme.md file. 
+
+To find more info about all this, check my README.md file in the code. It’s all explained [there](https://github.com/vanesascode/super-form-css-bootstrap-javascript)
+
+Visit it in [HERE](https://vanesascode.github.io/super-form-css-bootstrap-javascript/)
+
 🔹 **HOW TO CONTINUE:** 
+
+👉 Next, I want to merge this form and other landings I have into one flask app, and keep working from there to make a complete webpage. 
 
 ***
 
