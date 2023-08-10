@@ -120,13 +120,28 @@ Visit it in [HERE](https://vanesascode.github.io/super-form-css-bootstrap-javasc
 
 **Today's Progress**:
 
+💡 My objective now is to join, into just one website, some of the landing pages I have already done and that are kind of related, and keep growing the website. This will give me the chance of working on a bigger project. 
+
+
+So, I thought of mixing my dev jobs and dev school pages into a just one fictional developers school website, in which I will also keep a blog with my notes and materials I create while learning. 
+
+
+💻 The first step has been creating a `Flask` app, and creating a provisional home page. I also merged  the dev jobs web I had already done before and modified the footer. I Organized a little bit the folders and files of my project too, since there is a lot of stuff already in one project. However, I love working with `Jinja` as a templating engine, and it makes life easier.   
+
 🔹 **HOW TO CONTINUE:** 
+
+🔧🔨There’s a lot of work to do: the design of the web as a whole, adding my super form, adding a blog and keeping it, etc. Loads of work for the next days of code challenge. Tips and advice are more than welcome!
+
+[Code](https://github.com/vanesascode/devschool-vanesascode)
+
+[Web in progress](https://devschool-vanesascode.vercel.app/)
 
 ***
 
 ### Day 8️⃣: August 11, 2023
 
 **Today's Progress**:
+
 
 🔹 **HOW TO CONTINUE:** 
 
