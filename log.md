@@ -142,15 +142,6 @@ So, I thought of mixing my dev jobs and dev school pages into a just one fiction
 
 **Today's Progress**:
 
-
-🔹 **HOW TO CONTINUE:** 
-
-***
-
-### Day 9️⃣: August 12, 2023
-
-**Today's Progress**:
-
 As I mentioned yesterday, I had to work on the design of the my new web as a whole before continuing building it. This is because I merged different elements made in different moments, and I didn’t follow kind of rules when working with the templates and the index pages. 😔
 
 Therefore, I needed to take a step back and ensure that the design of the entire website was cohesive and followed a consistent strategy. 
@@ -176,5 +167,17 @@ Next time I’ll start the project more consistently from the beginning and will
 🔹 **HOW TO CONTINUE:** 
 
 Lots of things can be done in this website... blog and apply page to start.
+
+***
+
+### Day 9️⃣: August 12, 2023
+
+**Today's Progress**:
+
+
+
+🔹 **HOW TO CONTINUE:** 
+
+
 
 ***
