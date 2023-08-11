@@ -151,6 +151,30 @@ So, I thought of mixing my dev jobs and dev school pages into a just one fiction
 
 **Today's Progress**:
 
+As I mentioned yesterday, I had to work on the design of the my new web as a whole before continuing building it. This is because I merged different elements made in different moments, and I didn’t follow kind of rules when working with the templates and the index pages. 😔
+
+Therefore, I needed to take a step back and ensure that the design of the entire website was cohesive and followed a consistent strategy. 
+
+For example, the templates that are part of the index ones now don’t include vertical margins or paddings, so they are as reusable and “easy-lego-like” as possible. 
+
+And in the index templates I tried to add paddings rather than margins, so when trying to set in a template element I didn’t confuse myself and I always did it in the same way. 
+
+The margins and titles now use media queries many times for responsiveness, since I found myself limited with Bootstrap options. 
+
+Also I took care of the horizontal paddings, so they were consistent, especially in the mobile view, in which is more obvious and so very important.  😱
+
+So, these are changes that may not be very noticeable to the user right now, but that really make a difference and that prevent me from going crazy with the css when the site grows.
+
+Next time I’ll start the project more consistently from the beginning and will avoid all this nuisance 🤷
+
+[Code](https://github.com/vanesascode/devschool-vanesascode)
+
+[Web in progress](https://devschool-vanesascode.vercel.app/)
+
+💪 Planning and being organized is key!!!!
+
 🔹 **HOW TO CONTINUE:** 
+
+Lots of things can be done in this website... blog and apply page to start.
 
 ***
