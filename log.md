@@ -174,10 +174,20 @@ Lots of things can be done in this website... blog and apply page to start.
 
 **Today's Progress**:
 
+Today I’ve had a break from frontend work and have been studying #Typescript
+
+TypeScript (created by @microsoft ) is important because it is a statically typed superset of #JavaScript that helps catch errors during development, improves code readability, enhances tooling support, and enables better code organization and maintainability.
+So, along with the course for beginners by Dave Gray (https://www.youtube.com/@DaveGrayTeachesCode/featured), the docs of the official site (https://www.typescriptlang.org/)  and exercises by w3schools (https://www.w3schools.com/typescript/index.php) 
+
+I’ve been writing TS and compiling it into JS in order to learn types, objects, arrays, tuples, enums, functions, type assertions and classes for now. 
+
+Log: https://github.com/vanesascode/100-days-of-code/blob/master/log.md
+Code and notes: https://github.com/vanesascode/typescript-course
 
 
 🔹 **HOW TO CONTINUE:** 
 
-
+I have to keep learning the rest of lessons of the course. 
+When I know enough I’ll be getting into easy projects.
 
 ***
