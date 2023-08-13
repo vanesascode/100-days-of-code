@@ -185,6 +185,7 @@ I’ve been writing TS and compiling it into JS in order to learn types, objects
 I have to continue with the course and then start easy projects. 
 
 Log: https://github.com/vanesascode/100-days-of-code/blob/master/log.md
+
 Code and notes: https://github.com/vanesascode/typescript-course
 
 ### Day 1️⃣0️⃣: August 13, 2023
@@ -195,6 +196,9 @@ After studying classes in javascript and in #typescript, as I mentioned yesterda
 
 So I worked on a booklist in which you can add, remove and edit titles of books, which works very much like a todo list. At the same time, I kept a record of what I was learning in the first blog article I have added in my “dev school” site. 
 
+[Code](https://github.com/vanesascode/devschool-vanesascode)
+
+[Article](https://devschool-vanesascode.vercel.app/blog/javascript-classes-booklist)
 
 🔹 **HOW TO CONTINUE:** 
 
