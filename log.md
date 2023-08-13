@@ -181,13 +181,23 @@ So, along with the course for beginners by Dave Gray (https://www.youtube.com/@D
 
 I’ve been writing TS and compiling it into JS in order to learn types, objects, arrays, tuples, enums, functions, type assertions and classes for now. 
 
+🔹 **HOW TO CONTINUE:** 
+I have to continue with the course and then start easy projects. 
+
 Log: https://github.com/vanesascode/100-days-of-code/blob/master/log.md
 Code and notes: https://github.com/vanesascode/typescript-course
+
+### Day 1️⃣0️⃣: August 13, 2023
+
+**Today's Progress**:
+
+After studying classes in javascript and in #typescript, as I mentioned yesterday, I felt I needed a practical example to work with in order to understand them better and keep motivated with them. 
+
+So I worked on a booklist in which you can add, remove and edit titles of books, which works very much like a todo list. At the same time, I kept a record of what I was learning in the first blog article I have added in my “dev school” site. 
 
 
 🔹 **HOW TO CONTINUE:** 
 
-I have to keep learning the rest of lessons of the course. 
-When I know enough I’ll be getting into easy projects.
+The site needs lots and lots of work yet! 
 
 ***
