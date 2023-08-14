@@ -205,3 +205,25 @@ So I worked on a booklist in which you can add, remove and edit titles of books,
 The site needs lots and lots of work yet! 
 
 ***
+
+### Day 1️⃣1️⃣: August 14, 2023
+
+**Today's Progress**:
+
+I continued with my typescript studying and came across index signatures. 🤔 I wondered when they could be useful so I worked on a practical example: a simple product catalog of clothes. 💡 
+
+📝I kept a record of what I was learning once again, in the now the second blog article I have added to my “dev school” site.
+
+I hope the article is useful for learners like me: it tells you about typescript index signatures, lets you try the catalog, and shows you the code to do it yourself step by step. 💻
+
+Any feedback is more than welcome! 🙏
+
+[Code](https://github.com/vanesascode/devschool-vanesascode)
+
+[Article](https://devschool-vanesascode.vercel.app/blog/typescript-index-signatures)
+
+🔹 **HOW TO CONTINUE:** 
+
+The site needs lots and lots of work yet! 
+
+***
