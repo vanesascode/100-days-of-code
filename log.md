@@ -227,3 +227,30 @@ Any feedback is more than welcome! 🙏
 The site needs lots and lots of work yet! 
 
 ***
+
+### Day 1️⃣2️⃣: August 15, 2023
+
+**Today's Progress**:
+
+Improved the visualization  of the articles. Really looking consistent and professional. 
+
+Apart from the breadcrumbs, now there’s a module that gives info (title, category, author, date), and a module for the latest articles.
+This, being all responsive (the modules move depending on the size of the screen).
+Also, icons to share the article on social media!
+And a subscription to the newsletter box, functional, along with a privacy policy page. 
+
+Improved a bit the SEO (Search Engine Optimization) to help increase its visibility and organic traffic: 
+
+I optimized meta tags: meta descriptions and keywords.
+Added simple structured data markup.
+Revised the HTML headings (h1, h2, h3, etc.) 
+
+[Code](https://github.com/vanesascode/devschool-vanesascode)
+
+[Article](https://devschool-vanesascode.vercel.app/blog/javascript-classes-booklist)
+
+🔹 **HOW TO CONTINUE:** 
+
+The site needs lots and lots of work yet! 
+
+***
