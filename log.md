@@ -254,3 +254,22 @@ Revised the HTML headings (h1, h2, h3, etc.)
 The site needs lots and lots of work yet! 
 
 ***
+
+
+### Day 1️⃣3️⃣: August 16, 2023
+
+I’ve had another break to study #Typescript in depth. Again, along with the course by [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode/featured), the docs of the official site of [typescript](https://www.typescriptlang.org/)  and exercises by [w3schools](https://www.w3schools.com/typescript/index.php) 
+
+This time learning 📝
+
+-  Type indexing and the the keywork #keyof (I already wrote an article about index signatures, but now went more in depth)
+
+-  Generics <T>
+
+-  Utility types (partial, record, pick-extract, omit-exclude, returntype, parameters, etc.)
+  
+🔹 **HOW TO CONTINUE:** 
+
+😵 A lot of information I’ll be trying to interiorize by doing projects. 
+
+[Code and notes](https://github.com/vanesascode/typescript-course)
