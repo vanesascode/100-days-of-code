@@ -273,3 +273,19 @@ This time learning 📝
 😵 A lot of information I’ll be trying to interiorize by doing projects. 
 
 [Code and notes](https://github.com/vanesascode/typescript-course)
+
+
+***
+
+Day 1️⃣4️⃣: August 17, 2023
+
+Since we are now studying Javascript arrays in the @4geeksacademy bootcamp, I created an interactive article in which you can try some array methods without  coding, just visually,  in order to understand them better. 
+
+Site: https://devschool-vanesascode.vercel.app/blog/javascript-array-methods-part-one
+
+🔹 **HOW TO CONTINUE:** 
+
+I’ll be creating more articles like this with different array methods: it really helps me interiorize them and I hope it can also help other beginners that are starting to learn them. 
+
+
+
