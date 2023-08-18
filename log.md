@@ -277,7 +277,7 @@ This time learning 📝
 
 ***
 
-Day 1️⃣4️⃣: August 17, 2023
+### Day 1️⃣4️⃣: August 17, 2023
 
 Since we are now studying Javascript arrays in the @4geeksacademy bootcamp, I created an interactive article in which you can try some array methods without  coding, just visually,  in order to understand them better. 
 
@@ -287,7 +287,7 @@ Site: https://devschool-vanesascode.vercel.app/blog/javascript-array-methods-par
 
 I’ll be creating more articles like this with different array methods: it really helps me interiorize them and I hope it can also help other beginners that are starting to learn them. 
 
-Day 1️⃣5️⃣: August 18, 2023
+### Day 1️⃣5️⃣: August 18, 2023
 
 Today, I just focused on the javascript exercises provided in the @4geeks bootcamp. They give you hundreds so you stay entertained forever, so you really learn your code. So that’s good 👍
 
