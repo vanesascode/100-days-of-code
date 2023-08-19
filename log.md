@@ -295,5 +295,18 @@ Today, I just focused on the javascript exercises provided in the @4geeks bootca
 
 Continuing them, cos they're loads! 
 
+### Day 1️⃣6️⃣: August 19, 2023
+
+Today did some little improvements to my devschool website: 
+- Added a dropdown in the navbar
+- Added the form I had done some days ago in another project, with a toast message. 
+- Added a modal thanking the user once they subscribe
+  
+[Web in progress](https://devschool-vanesascode.vercel.app/)
+
+🔹 **HOW TO CONTINUE:** 
+
+The site needs lots and lots of work yet! 
+
 
 
