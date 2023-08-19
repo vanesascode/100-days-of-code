@@ -287,6 +287,8 @@ Site: https://devschool-vanesascode.vercel.app/blog/javascript-array-methods-par
 
 I’ll be creating more articles like this with different array methods: it really helps me interiorize them and I hope it can also help other beginners that are starting to learn them. 
 
+***
+
 ### Day 1️⃣5️⃣: August 18, 2023
 
 Today, I just focused on the javascript exercises provided in the @4geeks bootcamp. They give you hundreds so you stay entertained forever, so you really learn your code. So that’s good 👍
@@ -294,6 +296,8 @@ Today, I just focused on the javascript exercises provided in the @4geeks bootca
 🔹 **HOW TO CONTINUE:** 
 
 Continuing them, cos they're loads! 
+
+***
 
 ### Day 1️⃣6️⃣: August 19, 2023
 
@@ -309,4 +313,4 @@ Today did some little improvements to my devschool website:
 The site needs lots and lots of work yet! 
 
 
-
+***
