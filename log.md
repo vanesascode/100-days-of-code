@@ -308,9 +308,20 @@ Today did some little improvements to my devschool website:
   
 [Web in progress](https://devschool-vanesascode.vercel.app/)
 
+***
+
+### Day 1️⃣7️⃣: August 20, 2023   
+
+🌟 I’m very happy to have added my first box of comments in one of my blog articles! 🥳
+
+It’s very simple at the moment but it’s the result of quite a search by myself on how to connect my #flask app to my mongoDB Atlas #database
+⛓ Also, I installed #dotenv and hid the connection string from the app.py file. I explain how to do it in the readme.file
+
+Site: https://devschool-vanesascode.vercel.app/blog/typescript-index-signatures
+
 🔹 **HOW TO CONTINUE:** 
 
-The site needs lots and lots of work yet! 
+Next,  I’ll refine it all a bit, and will manage to add it to my other articles!
 
 
 ***
