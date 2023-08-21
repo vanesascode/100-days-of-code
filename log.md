@@ -325,3 +325,18 @@ Next,  I’ll refine it all a bit, and will manage to add it to my other article
 
 
 ***
+
+### Day 1️⃣8️⃣: August 21, 2023    🌟 Cool blog comments as promised!
+
+So, there we go! Now every article of my blog has a box comments in which you can add your name and see the date of posting
+The number of current comments dynamically renders in the title (I love #Jinja ! )
+
+In the backend I separated the database-related code into its own file (database.py), so I didn’t clutter my app.py file that much. I also separated the post routes for the database into its own file with the Flask's `Blueprint` feature.
+
+However, you cannot get into the website for now, since the render with vercel is failing and I still have to find out why... 🥺
+
+🔹 **HOW TO CONTINUE:** 
+
+I hope to solve it soon. 
+
+***
