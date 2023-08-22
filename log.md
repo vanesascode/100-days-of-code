@@ -340,3 +340,16 @@ However, you cannot get into the website for now, since the render with vercel i
 I hope to solve it soon. 
 
 ***
+
+### Day 1️⃣9️⃣: August 21, 2023   
+
+So I created a modal popup asking you to subscribe when you enter in the website for the first time. 
+
+Then, thanks to #localStorage, it doesn’t appear again unless you totally clean your browser 🌟
+
+code: https://github.com/vanesascode/devschool-vanesascode
+🔹 **HOW TO CONTINUE:** 
+
+I hope to solve the deployment soon.... 
+
+***
