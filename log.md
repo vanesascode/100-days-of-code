@@ -341,7 +341,7 @@ I hope to solve it soon.
 
 ***
 
-### Day 1️⃣9️⃣: August 21, 2023   
+### Day 1️⃣9️⃣: August 22, 2023   
 
 So I created a modal popup asking you to subscribe when you enter in the website for the first time. 
 
@@ -353,3 +353,28 @@ code: https://github.com/vanesascode/devschool-vanesascode
 I hope to solve the deployment soon.... 
 
 ***
+
+### Day 2️⃣0️⃣: August 23, 2023   
+
+At the moment, in the @4geeksacademy bootcamp, we are working with the #DOM.
+
+🌟Things getting exciting now! 
+
+🐭 mouse events: 
+
+“click”
+“contextmenu”
+“mouseover/out”
+“mousemove”
+“mousedown/up”
+
+Code and notes: https://github.com/vanesascode/mastering-the-DOM-with-JS
+
+🔹 **HOW TO CONTINUE:** 
+
+Learning more about other events
+
+***
+
+
+
