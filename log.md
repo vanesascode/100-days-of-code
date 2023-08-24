@@ -376,5 +376,18 @@ Learning more about other events
 
 ***
 
+### Day 2️⃣1️⃣: August 24, 2023   
 
+I put into practice my Typescript recent learning and created a todo-list following one of @DaveGray tutorials. It was really hard for me at the beginning, it took me several days to analyze the classes used in the ts.files but eventually I got through them. 
+
+🌟 You can compare the Typescript and the compiled Javascript in the same website. Visit it: https://zen-todo-list-vite-typescript-classes.vercel.app/
+
+In the readme.md file I have thousands of notes 😅
+Code: https://github.com/vanesascode/zen-todo-list-vite-typescript-classes
+
+🔹 **HOW TO CONTINUE:** 
+
+Next I'll work with Typescript with React.
+
+***
 
