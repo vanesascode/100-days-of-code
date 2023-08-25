@@ -391,3 +391,20 @@ Next I'll work with Typescript with React.
 
 ***
 
+
+### Day 2️⃣2️⃣: August 25, 2023   
+
+At 4geeks bootcamp we’ve had a look at Jest Unit Testing with #Javascript
+
+Therefore, today I’ve been experimenting with different built-in Jest #methods by myself in order to practice and get a better hold of it. 
+
+Describe, it, test, expect, matchers(toBe, toEqual, toContain, toThrow, toMatch, toHaveProperty, etc.), 
+
+Find my notes and code here: https://github.com/vanesascode/jest-configuration-and-examples
+
+
+🔹 **HOW TO CONTINUE:** 
+
+Another day I want to be discovering other methods and features such as: beforeAll, afterAll, veforeEach, Mocking, Snapshot testing, etc. 
+
+***
