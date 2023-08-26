@@ -403,8 +403,32 @@ Describe, it, test, expect, matchers(toBe, toEqual, toContain, toThrow, toMatch,
 Find my notes and code here: https://github.com/vanesascode/jest-configuration-and-examples
 
 
-🔹 **HOW TO CONTINUE:** 
+
+
 
 Another day I want to be discovering other methods and features such as: beforeAll, afterAll, veforeEach, Mocking, Snapshot testing, etc. 
 
 ***
+
+### Day 2️⃣3️⃣: August 26, 2023   
+
+Continuing with @4geeksacademy program, more event listeners! 🌟
+Now form events, very useful all the time. See my interactive notes in the gif picture below if you don’t know them yet 😉
+
+“input”
+“change”
+“submit”
+“reset”
+“focusin/out”
+“keydown/up”
+
+Code and notes: https://github.com/vanesascode/mastering-the-DOM-with-JS
+
+🔹 **HOW TO CONTINUE:** 
+
+However…. I must get into React now and start working with events such as onKeyDown, onChange, onClick, etc. 
+
+***
+
+
+
