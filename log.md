@@ -430,5 +430,24 @@ However…. I must get into React now and start working with events such as onKe
 
 ***
 
+### Day 2️⃣4️⃣: August 28, 2023   
+
+As mentioned on my day 22 of the challenge,  I dug more into more Jest features: beforeAll, beforeEach, Mocking (jest.fn, jest.mock) &  Snapshot testing. 
+You can find my notes and exercises here once more: https://github.com/vanesascode/jest-configuration-and-examples
+
+👉 Yesterday I didn’t post and won’t be doing so on Sundays anymore. This is because I am spending loads of hours during the week, on the 4geeks bootcamp, my personal going in depth of things and also this 100 days code challenge to show it all. 
+
+And I needed a break, a healthy break. 🤦‍♀️
+
+And I will need a break from time to time, so I am more productive when I start coding again the following day. 💪
+
+I hope you agree with me ❤️
+
+
+🔹 **HOW TO CONTINUE:**
+
+I'll get into React with Typescript. 
+
+***
 
 
