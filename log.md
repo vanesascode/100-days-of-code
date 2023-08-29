@@ -450,4 +450,14 @@ I'll get into React with Typescript.
 
 ***
 
+### Day 2️⃣5️⃣: August 29, 2023   
 
+Today I am coming with a new tutorial in my blog. It tells you about the Typescript Record Utility Type, the optional operator, assertions, and of course, gives you visual examples to understand it.
+
+Site: https://devschool-vanesascode.vercel.app/blog/typescript-record-utiliy-type
+
+🔹 **HOW TO CONTINUE:**
+
+I'll get into React with Typescript. 
+
+***
