@@ -461,3 +461,31 @@ Site: https://devschool-vanesascode.vercel.app/blog/typescript-record-utiliy-typ
 I'll get into React with Typescript. 
 
 ***
+
+### Day 2️⃣6️⃣: August 30, 2023   
+
+I have been following Dave Gray's course on Typescript with React:
+
+👉 So far, I have been practicing:
+
+useState
+
+useEffect
+
+useRef
+
+useCallback
+
+useMemo
+
+useReducer
+
+🌟And made a site where you can test the different exercises I did: https://exercices-react-typescript-vite.vercel.app/
+
+Code and notes: https://github.com/vanesascode/exercises-react-typescript-vite
+
+🔹 **HOW TO CONTINUE:**
+
+I think I’m ready to start projects with Typescript (however, want to dig into Tailwind first) 
+
+***
