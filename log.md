@@ -489,3 +489,18 @@ Code and notes: https://github.com/vanesascode/exercises-react-typescript-vite
 I think I’m ready to start projects with Typescript (however, want to dig into Tailwind first) 
 
 ***
+
+### Day 2️⃣7️⃣: August 31, 2023 
+
+Before moving to Tailwind, one of the things that I was still missing in CSS was to understand the before and after pseudo-elements and the keyframes for animation. 
+
+☀️That was the motivation to create this sea scene with a sun that is made of before and after pseudo-elements so it has different layers, and in which the ships move over the waves of the sea (and stop if you hover over them)⛵
+
+In my repository you’ll find the readme file with  lots of notes and of course, the code: 
+https://github.com/vanesascode/sea-scene-css-animation-before-after
+
+🔹 **HOW TO CONTINUE:**
+
+I should move on, and learn #Tailwind now! 💪
+
+***
