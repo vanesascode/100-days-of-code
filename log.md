@@ -504,3 +504,22 @@ https://github.com/vanesascode/sea-scene-css-animation-before-after
 I should move on, and learn #Tailwind now! 💪
 
 ***
+
+### Day 2️⃣8️⃣: September 1, 2023
+
+I’ve started to follow a tutorial that focuses on creating a UI/UX landing with React and Tailwind. My main objective, though, is to start to become familiar with Tailwind syntax and configurations. 
+
+So far I’ve: 
+
+- Become familiar with some Tailwind #syntax (I just love that you mouse over an element and it tells you what CSS it is!) 
+- Also with the Tailwind #docs,
+- Learned about the custom Tailwind #configuration,
+- And how to create complex #classes using javascript and importing them into the components (saves you code and time!)
+- How to have a friendly #javascript file to iterate the text and use it in the components, rather than writing the text in the components themselves, 
+- How to do the same with the assets (code gets much #cleaner!)
+- How to use Javascript #ternaries to determine classes based on the #index of the element (when iterating them from an array)
+- How to access elements with the #shortcut ‘Ctrl + click on the element ‘ (really useful tip! ),
+- I’ve tried #Figma’s CSS feature (I was amazed and looking to learn more about Figma!)
+
+You can have a look at my notes to learn more about all this: 
+Code: https://github.com/vanesascode/bank-landing-page-tailwind-react-vite-ui-ux
