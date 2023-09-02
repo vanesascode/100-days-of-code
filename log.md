@@ -523,3 +523,34 @@ So far I’ve:
 
 You can have a look at my notes to learn more about all this: 
 Code: https://github.com/vanesascode/bank-landing-page-tailwind-react-vite-ui-ux
+
+🔹 **HOW TO CONTINUE:**
+
+Finishing this website.
+
+***
+
+### Day 2️⃣9️⃣: September 2, 2023
+Continuing yesterday’s tutorial, I continue learning: 
+
+- I’m more familiar with Tailwind syntax,
+- Tailwind filters for pics are lovely 😍
+- I learned how to make the Navbar responsive in mobiles using useState,
+- I dug into useful animations,
+- I’m more and more aware of the efficiency of styles in Tailwind, which is super emphasized when using custom classes, 
+- I’m more aware of how Figma can help with front-end designs decisions, 
+- I didn’t know you could apply classes to the <br /> tag 🥳
+- Learned how to apply self-closed divs with gradient backgrounds 🌈
+- When iterating text from the Javascript file into the component, you have much flexibility using the index of the items, to add, remove elements, classes… 
+- You can use reusable components that have their main styles, but that also have styles passed as a prop to fit where they are placed,
+- Passing multiple props without specifying each one, by using the spread operator (...),
+- Learned about custom CSS variables,
+- Discovered the ‘flex column reverse’ css class for making mobile responsiveness easier. 
+
+You can have a look at my notes to learn more about all this: 
+Code: https://github.com/vanesascode/bank-landing-page-tailwind-react-vite-ui-ux
+
+🔹 **HOW TO CONTINUE:**
+
+Doing something by myself with Tailwind, without following tutorials
+
