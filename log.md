@@ -554,3 +554,23 @@ Code: https://github.com/vanesascode/bank-landing-page-tailwind-react-vite-ui-ux
 
 Doing something by myself with Tailwind, without following tutorials
 
+### Day 3️⃣0️⃣: September 4, 2023
+
+So, no tutorial following today. All on my own. I had to prepare a simple counter for @4geeksacdemy bootcamp’s homework, and so I decided to take that and go a step beyond applying Tailwind and working in Typescript, all in #Vite. 
+
+📋 I tried to apply all I have learned with the tutorial for the last two days. And so: 
+
+- I had a tsx. file to have my own #custom-classes and then import them into the components.
+- I made use of text and background #gradients. 
+- I can say now I am more comfortable with Tailwind #Docs. 
+
+🌈 Also, to make the site more interesting:
+
+- I added a #clock sphere with the transform and rotate properties.
+- I added a #fullscreen option button.
+- I added a toggle #dark/light mode.
+
+👉 Have a look at it: 
+
+Code: https://github.com/vanesascode/life-is-just-seconds-tailwind-react-tsx-vite
+Site: https://life-is-just-seconds-vanesascode.vercel.app/
