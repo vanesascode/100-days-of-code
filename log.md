@@ -574,3 +574,18 @@ So, no tutorial following today. All on my own. I had to prepare a simple counte
 
 Code: https://github.com/vanesascode/life-is-just-seconds-tailwind-react-tsx-vite
 Site: https://life-is-just-seconds-vanesascode.vercel.app/
+
+***
+
+### Day 3️⃣1️⃣: September 5, 2023
+
+This is an activity that the Bootcamp has asked us to do. A Todo list with Jsx React and using Bootstrap and CSS. 
+
+The mode is very handwritten notebook like, and so it was a bit challenging to style. 
+
+However, thanks to the help of our teacher [Gabriel Aquino](https://github.com/jgaquino) I learned cool css selectors that made everything easier.
+
+You can learn more in the code notes: https://github.com/vanesascode/4geeks-react-todo-list
+
+
+***
