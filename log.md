@@ -589,3 +589,25 @@ You can learn more in the code notes: https://github.com/vanesascode/4geeks-reac
 
 
 ***
+
+### Day 3️⃣2️⃣: September 6, 2023  -  Going in depth with  #Tailwind!
+
+My next project is creating a landing page for  a fictional boots brand I’ve invented. 
+
+This gives me the opportunity to: 
+
+Learn more about the custom configuration of Tailwind and applying @layer components and utilities.
+Have to deal with the design of professional logo and images by myself and defining my own color palette.
+Learn about the dark mode in the Tailwind way. 
+Practice, practice and practice until Tailwind is really my friend. 
+
+
+Code: https://github.com/vanesascode/lizz-boots-landing-tailwind-react-tsx-vite
+
+🔹 **HOW TO CONTINUE:**
+
+
+For now I only have the #Navbar and the #Hero sections. I’ll be showing you the progress in the following days. 
+
+***
+
