@@ -554,6 +554,8 @@ Code: https://github.com/vanesascode/bank-landing-page-tailwind-react-vite-ui-ux
 
 Doing something by myself with Tailwind, without following tutorials
 
+***
+
 ### Day 3️⃣0️⃣: September 4, 2023
 
 So, no tutorial following today. All on my own. I had to prepare a simple counter for @4geeksacdemy bootcamp’s homework, and so I decided to take that and go a step beyond applying Tailwind and working in Typescript, all in #Vite. 
