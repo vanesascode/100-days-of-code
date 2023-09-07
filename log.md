@@ -613,3 +613,16 @@ For now I only have the #Navbar and the #Hero sections. I’ll be showing you th
 
 ***
 
+### Day 3️⃣3️⃣: September 7, 2023   -  #Shop Carousel!
+
+Continuing  with the fictional boots brand I’ve invented, now it’s time for the #Featured products section. I used a #React library called `React Slick` to create the carousel which has many settings and is very easy to use. 
+
+👉 I explain how in the code notes: https://github.com/vanesascode/lizz-boots-landing-tailwind-react-tsx-vite
+
+You can also see the progress and give me feedback if you like: https://lizz-boots-vanesascode.vercel.app/
+
+🔹 **HOW TO CONTINUE:**
+
+Next I’ll continue with feature sections 🌟
+
+***
