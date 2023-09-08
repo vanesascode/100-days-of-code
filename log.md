@@ -626,3 +626,15 @@ You can also see the progress and give me feedback if you like: https://lizz-boo
 Next I’ll continue with feature sections 🌟
 
 ***
+
+### Day 3️⃣4️⃣: September 8, 2023   
+
+Continuing with the fictional boots brand I’ve invented, now it’s time for the #Quality and the #Services sections.
+
+💪 More structuring and #Tailwind practice building a landing page. 
+
+🌟 You can see the progress and give me feedback if you like: https://lizz-boots-vanesascode.vercel.app/
+
+👉 code notes: https://github.com/vanesascode/lizz-boots-landing-tailwind-react-tsx-vite
+
+***
