@@ -637,4 +637,17 @@ Continuing with the fictional boots brand I’ve invented, now it’s time for t
 
 👉 code notes: https://github.com/vanesascode/lizz-boots-landing-tailwind-react-tsx-vite
 
+
+
+### Day 3️⃣5️⃣: September 9, 2023   
+
+#Collage + #Button component
+
+So, on the left of the #offer section, you can see a collage of elements that are placed on top of a transparent canvas that serves as a static background. Then, I use #relative-absolute positions, and #percentages instead of fixed measurements to place the gray backgrounds and the pictures, as I like best. This allows for a creative #responsive design that adapts to different screen sizes and resolutions. 
+
+On the right, there is a button component rendered twice, but with different #props. They are props that I can use if I like, or not use and then receive the default styles instead. I think it’s really handy and gives a lot of flexibility to #React components.
+
+🌟 You can see the progress and give me feedback if you like: https://lizz-boots-vanesascode.vercel.app/
+👉 code notes: https://github.com/vanesascode/lizz-boots-landing-tailwind-react-tsx-vite
+
 ***
