@@ -651,3 +651,41 @@ On the right, there is a button component rendered twice, but with different #pr
 👉 code notes: https://github.com/vanesascode/lizz-boots-landing-tailwind-react-tsx-vite
 
 ***
+
+### Day 3️⃣6️⃣: September 11, 2023
+
+#Lizz Boots site almost finished! 🌟
+
+There you go, all the sections finished. Happy to have it finished. 
+
+I added the customers #review sections, another to #subscribe, and of course the #footer. 
+
+In the service cards, I added a cool #CSS effect so they were filled with color when hovered over them 🌈 Using the ::before #pseudo-element!
+
+```
+.card::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 0px;
+  background-color: pink;
+  z-index: -1;
+  transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.card:hover::before {
+  height: 100%;
+}
+```
+
+🌟 Site: https://lizz-boots-vanesascode.vercel.app/
+
+👉 Code notes: https://github.com/vanesascode/lizz-boots-landing-tailwind-react-tsx-vite
+
+🔹 **HOW TO CONTINUE:**
+
+I said I would work on the darkmode feature, but don’t think here in this shop makes sense, so I’ll leave it for a future project! Instead, tomorrow I will add a modal and a toast message informing of cookies  💪
+
+***
