@@ -689,3 +689,21 @@ In the service cards, I added a cool #CSS effect so they were filled with color 
 I said I would work on the darkmode feature, but don’t think here in this shop makes sense, so I’ll leave it for a future project! Instead, tomorrow I will add a modal and a toast message informing of cookies  💪
 
 ***
+
+### Day 3️⃣7️⃣: September 12, 2023
+
+Lizz #modals 🏴
+
+Now it I can call this project finished: 
+
+- It has a bottom modal for the cookies
+- It has a modal to promote the membership of the brand, which appears a few seconds after the page loaded.
+- And both, only appear one in a browser thanks to the use of #local #storage
+
+I had to deal with some css problems with responsiveness, and by chance I encountered the `Touch-action` properties, which deal with the touch gestures when mobile/tablet mode. In the end, I didn’t use them. However, I explain them in the notes of the code because I found them very interesting. 
+
+🌟 Site: https://lizz-boots-vanesascode.vercel.app/
+
+👉 Code notes: https://github.com/vanesascode/lizz-boots-landing-tailwind-react-tsx-vite
+
+***
