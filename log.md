@@ -707,3 +707,21 @@ I had to deal with some css problems with responsiveness, and by chance I encoun
 👉 Code notes: https://github.com/vanesascode/lizz-boots-landing-tailwind-react-tsx-vite
 
 ***
+
+### Day 3️⃣8️⃣: September 13, 2023
+
+Todolist using #Fetch in #React
+
+This is one of the exercises at 4Geeks Academy Bootcamp in which I’ve been learning more. I’m really excited to know now more about what an #API is and how to work with the endpoints to be doing different kinds of requests. 
+
+The exercise uses a school API that lets you create a user, get the list, update it and delete it. The code works now nicely along the API.
+
+Also, the light design is inspired by #Neumorphism which is a #CSS trend.
+
+It’s also been a pile of ternary expressions for conditional rendering and dynamically setting class names or different texts based on certain conditions 💪
+
+Code: https://github.com/vanesascode/4geeks-todolist-react-fetch-api
+
+***
+
+
