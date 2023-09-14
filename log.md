@@ -724,4 +724,12 @@ Code: https://github.com/vanesascode/4geeks-todolist-react-fetch-api
 
 ***
 
+### Day 3️⃣9️⃣: September 14, 2023
 
+Today I am presenting the “Javascript array methods part II” article in my other website “devschool”.
+
+It shows the Javascript #map #forEach and #filter array methods in an interactive way. 
+
+👉 Have a play with it:  https://devschool-vanesascode.vercel.app/blog/javascript-array-methods-part-two
+
+***
