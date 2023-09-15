@@ -733,3 +733,21 @@ It shows the Javascript #map #forEach and #filter array methods in an interactiv
 👉 Have a play with it:  https://devschool-vanesascode.vercel.app/blog/javascript-array-methods-part-two
 
 ***
+
+### Day 4️⃣0️⃣: September 15, 2023 
+
+More complex #React and #Api stuff!
+
+I’m in the progress of building a new app for the 4geeksacademy bootcamp: a contact list. 
+
+📚 So, after studying #React-router and #Context-Api in class, this app is going to be including these features to put them in practice. 
+
+Also, it will use a school #API in which we’ll have to configure more methods and paths than with the previous project, in order to create all the necessary endpoints for this new app. 
+
+Instead of using JS and Bootstrap, I’ll be challenging myself to do it with #TSX and #Tailwind. 💪
+
+🔹 **HOW TO CONTINUE:**
+
+Build the interface, routes and api endpoints.
+
+***
