@@ -751,3 +751,17 @@ Instead of using JS and Bootstrap, I’ll be challenging myself to do it with #T
 Build the interface, routes and api endpoints.
 
 ***
+
+### Day 4️⃣1️⃣: September 16, 2023
+
+Let’s continue with the #contact list! 📋
+
+I already have a lot of the interface of both the contact list and the contact form, although I am also working on a page for creating and accessing different agendas. They are connected with #React #Router.
+
+💻 I have my React #Context #Api set in the project, with some methods already configured, to GET the contacts from the school Api, DELETE them  and to EDIT  them, all with the help of #Postman. However, I want to be doing all the logic for the agendas stuff I mentioned above.
+
+🔹 **HOW TO CONTINUE:**
+
+I’ll continue doing and will be showing you the progress 💪
+
+***
