@@ -765,3 +765,31 @@ I already have a lot of the interface of both the contact list and the contact f
 I’ll continue doing and will be showing you the progress 💪
 
 ***
+
+### Day 4️⃣2️⃣: September 18, 2023
+
+Progress with #contact list! 📋
+
+I can: 
+
+- Create agendas,
+  
+- delete them.
+  
+- Create contacts for each agenda,
+  
+- edit and delete them…
+
+🔹 **HOW TO CONTINUE:**
+
+I have many of the features I wanted, but there are still some things missing. Also the code needs revising and cleaning.🔧🔨
+
+Still, I am already getting most of the school #API possibilities with the agendas and the contacts. 
+
+However, I still have some issues with the routes I have to keep working with. 🤔
+
+
+***
+
+
+
