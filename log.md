@@ -791,5 +791,15 @@ However, I still have some issues with the routes I have to keep working with. �
 
 ***
 
+### Day 4️⃣3️⃣: September 19, 2023
+
+Contact List not finished yet 🔧🔨
+
+But, I for now I can show another couple of components I added: 
+
+ - A modal for the alert that you have to choose an agenda before creating a contact.
+
+ - A modal asking you if you are sure you want to delete an agenda. 
 
 
+***
