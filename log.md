@@ -803,3 +803,10 @@ But, I for now I can show another couple of components I added:
 
 
 ***
+### Day 4️⃣4️⃣  - Revision #Hooks
+
+Today I felt I needed to take a step back. Although, it depends on how you see it. 
+
+If doing a todolist again is going a step back, then yes. But if you are doing a todolist applying concepts you are not confident with yet, and that are making big projects a nightmare, then I think it’s a step forward. 👩‍💻
+
+Code: https://github.com/vanesascode/todolist-from-easy-to-very-difficult-react-tsx
