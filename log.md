@@ -810,3 +810,13 @@ Today I felt I needed to take a step back. Although, it depends on how you see i
 If doing a todolist again is going a step back, then yes. But if you are doing a todolist applying concepts you are not confident with yet, and that are making big projects a nightmare, then I think it’s a step forward. 👩‍💻
 
 Code: https://github.com/vanesascode/todolist-from-easy-to-very-difficult-react-tsx
+
+### Day 4️⃣5️⃣ - Starting new project
+
+So, I’m building the skeleton for a new project at the 4geeksacademy bootcamp, a reading list that will be able to have a list of favourite characters, vehicles and plantes from #starwars
+
+Working with a new template for the school, so my code is quite slow…
+
+I’ll be showing the functionalities and the styles, in future days…
+
+***
