@@ -820,3 +820,23 @@ Working with a new template for the school, so my code is quite slow…
 I’ll be showing the functionalities and the styles, in future days…
 
 ***
+
+Day4️⃣6️⃣ #100DaysOfCode challenge - Happy with the #ContactList 🌟
+
+In the final stage of the contact list activity using the @4geeksacademy school #API, I think I’ve learned quite a bit about the way in which you manage the states and the functions from your #ContextApi in #React, and into your components. 
+
+I had the problem that I was relying too much on state values in my  Context, and, since they don’t automatically update as much as you would like, then I was losing the views of the contact lists of the users when they were managed or refreshed. 
+
+So, now it is solved thanks to calling the function that fetches the contacts of a user (constructed in the Context)  in the very same component that renders those contacts, every time that component mounts. 
+
+This way, I am not relying on a state with the slug needed in the fetch function from the Context. Instead, I am passing the params from the react-router as the argument, directly into the fetch function. (You see, before, my fetch function didn’t have parameters, and was only relying on the state value for the slug, and it never fetched the contacts on time… )
+
+I know this explanation is confusing without seeing the code, so I invite you to see by yourself if you think it may be useful for you: https://github.com/vanesascode/contact-list-react-router-context-api-tsx-tailwind-vite
+
+Also, you can try the app, but since it is only build with React as an all in one page app, you may encounter the 404 error when refreshing in certain points. Just go back to the main URL if that happens: https://contact-list-react-router-context-api-tsx-vanesascode.vercel.app
+
+Thank you teacher Javier for your patience in the mentoring sessions. I went from lost to the aaaahhh!
+Also teacher Juanjo for revising it! 
+
+***
+
