@@ -803,7 +803,7 @@ But, I for now I can show another couple of components I added:
 
 
 ***
-### Day 4️⃣4️⃣  - Revision #Hooks
+### Day 4️⃣4️⃣: September 20, 2023  - Revision #Hooks
 
 Today I felt I needed to take a step back. Although, it depends on how you see it. 
 
@@ -811,7 +811,7 @@ If doing a todolist again is going a step back, then yes. But if you are doing a
 
 Code: https://github.com/vanesascode/todolist-from-easy-to-very-difficult-react-tsx
 
-### Day 4️⃣5️⃣ - Starting new project
+### Day 4️⃣5️⃣: September 21, 2023 - Starting new project
 
 So, I’m building the skeleton for a new project at the 4geeksacademy bootcamp, a reading list that will be able to have a list of favourite characters, vehicles and plantes from #starwars
 
@@ -821,7 +821,7 @@ I’ll be showing the functionalities and the styles, in future days…
 
 ***
 
-Day4️⃣6️⃣ #100DaysOfCode challenge - Happy with the #ContactList 🌟
+Day4️⃣6️⃣: September 22, 2023 challenge - Happy with the #ContactList 🌟
 
 In the final stage of the contact list activity using the @4geeksacademy school #API, I think I’ve learned quite a bit about the way in which you manage the states and the functions from your #ContextApi in #React, and into your components. 
 
@@ -837,6 +837,18 @@ Also, you can try the app, but since it is only build with React as an all in on
 
 Thank you teacher Javier for your patience in the mentoring sessions. I went from lost to the aaaahhh!
 Also teacher Juanjo for revising it! 
+
+***
+
+Day 4️⃣7️⃣: September 23, 2023
+
+Styling #Star #Wars Reading List
+
+While trying to make the “circuits” of the site work, I have started styling it with #Bootstrap and #CSS 
+
+Still needs lots of configuring but we’ll keep it up 💪
+
+code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
 
 ***
 
