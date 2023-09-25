@@ -852,3 +852,18 @@ code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
 
 ***
 
+Day 4️⃣8️⃣: September 25, 2023 
+
+Styling #Star #Wars Reading List:
+
+So, for now I have the list of characters, of vehicles and of planets.
+
+🔹 Next, I’ll be creating an article for each. 
+
+🔹 And next, I’ll be making the favorite button work. 
+
+Little by little but without pause ☯
+
+code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
+
+***
