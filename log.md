@@ -867,3 +867,19 @@ Little by little but without pause ☯
 code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
 
 ***
+
+Day 4️⃣9️⃣: September 26, 2023
+
+Styling #Star #Wars Reading List
+
+So, as promised, there is an article for each character, planet and vehicle, all in a careful responsive way. 
+
+Also, a laser cursor!!! what a geek!!! 🌟
+
+Next, the favorite button work!! 
+
+Little by little but without pause ☯
+
+🔹 code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
+
+***
