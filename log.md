@@ -883,3 +883,21 @@ Little by little but without pause ☯
 🔹 code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
 
 ***
+
+Day 5️⃣0️⃣: September 27, 2023
+
+As scheduled, today I am showing the #Favourites feature: 
+
+- Articles can be added to an array of favs.
+
+- Repetition of articles in the array is avoided. 
+
+- Articles can be removed from the array of favs.
+
+- #Localstorage is configured so the list of favs is not eliminated every time you refresh the browser. 
+
+Let’s go now for the final touches! 🌟
+
+🔹 code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
+
+***
