@@ -901,3 +901,17 @@ Let’s go now for the final touches! 🌟
 🔹 code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
 
 ***
+
+Day 5️⃣1️⃣: September 28, 2023 - Todolist with #Redux 💻
+
+I have added a new way of coding a todolist to my todolists repository. So far, in there I had examples of them using useState and useReducer.
+
+Now I have an example with Redux #Toolkit. Also learned about: 
+
+It’s tool #nanoid, which is used to create unique IDs.
+#Immer.js, which lets you write simpler immutable update logic using "mutating" syntax.
+The Redux #DevTools for Chrome.
+
+code: https://github.com/vanesascode/todolist-from-easy-to-complex-react-tsx
+
+***
