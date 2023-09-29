@@ -915,3 +915,19 @@ The Redux #DevTools for Chrome.
 code: https://github.com/vanesascode/todolist-from-easy-to-complex-react-tsx
 
 ***
+
+Day5️⃣2️⃣: September 28, 2023 - Introduction to #SQL #Databases
+
+So, at the @geeksbootcamp we have started the module of SQL (Structured Query Language) , so now I need to spend some time studying rather than coding. 
+
+Then, today, I’ll be understanding this language created by Edgar F. Codd
+and Donald D. Chamberlin, and the different relations that exist between tables (in order to avoid duplicity of data): 
+
+🔹 One to one (1:1): Each record in Table A is associated with exactly one record in Table B.  
+
+🔹 One to many, or many to one (1:N/ N:1): Each record in Table A can be associated with multiple records in Table B, or viceversa.
+
+🔹 Many-to-Many (N:N): Multiple records in Table A can be associated with multiple records in Table B. (This type of relationship requires an intermediate table, often called a junction or associative table, to connect the two tables. )
+
+And between today and tomorrow, and next few days, I’ll be mastering the SQL #syntax
+
