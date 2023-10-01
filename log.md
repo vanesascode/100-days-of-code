@@ -931,3 +931,17 @@ and Donald D. Chamberlin, and the different relations that exist between tables 
 
 And between today and tomorrow, and next few days, I’ll be mastering the SQL #syntax
 
+***
+
+Day5️⃣3️⃣: October 1, 2023 - Practicing #SQL #syntax
+
+So, as I mentioned before, I am learning to use syntax such as: 
+
+SELECT, BETWEEN, LIKE “”/%%, IN, NOT, ORDER BY, ASC/DESC, LIMIT, OFFSET, INNER/LEFT/RIGHT JOIN ON, IS/IS NOT NULL, 
+CREATE IF NOT EXISTS, ALTER TABLE ADD/DROP(columns) RENAME(table), INSERT INTO (row) VALUE, UPDATE (row) SET, DELETE (row) FROM, DROP TABLE IF EXISTS (table)…
+
+And also learning about data integrity, schemas (DEFAULT, INTEGER, KEY PRIMARY, FLOAT, etc) and transactions (COMMIT, ROLLBACK, SAVEPOINT, SET TRANSACTION)
+
+I recommend this cool website to practice: https://sqlbolt.com/
+
+***
