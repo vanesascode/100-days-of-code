@@ -945,3 +945,25 @@ And also learning about data integrity, schemas (DEFAULT, INTEGER, KEY PRIMARY, 
 I recommend this cool website to practice: https://sqlbolt.com/
 
 ***
+
+Day 5️⃣4️⃣: October 2, 2013 - #star #wars reading list finished! 🌟
+
+So, the force was with me to finish it! 
+
+- Do you like the stars in the background? it’s a #React library called #Particles.js (discovered thanks to @victor ). If you click on the background more stars appear! ✨
+
+- The favourites tab now shows you how many articles you got in your favs list.
+
+- Also, cleaned code so the home component didn’t become so long (got parts of it into smaller and more manageable components) 
+
+- I had a bug: when you clicked many times too fast on the heart of an article, such article was added to the favs array repeatedly, in spite of the fact I had a condition so favs were unique in the array 👉 I corrected it by using a useState and a setTimeout in order to disable the button for some time after clicking. 
+
+- And the best part, you can now try it! I used the platform #Netifly for the first time: https://6515a3746ab5b021194cc363--starwars-readinglist-by-vanesascode.netlify.app/
+
+Thank you again to the team of #4geeksacademy @javier @juanjo @jose May the Force Be With You! 💪💻
+
+code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
+
+***
+
+
