@@ -966,4 +966,31 @@ code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
 
 ***
 
+Day 5️⃣5️⃣: October 3, 2023 - Introduction to #SQLAlchemy (CORE)
+
+So, after learning SQL, it’s time to learn how to deal with it with an #ORM (Object-Relational Mapper) or library to create and manipulate databases. 
+
+At @4geeks bootcamp we are learning SQLAlchemy, an open-source Python library to work with relational databases.
+
+👉 Then, I decided to take a crash course on it first, only using #Python and #sqlite (without Flask). It has two parts, the #CORE and the #ORM:
+
+SQLAlchemy Core is a lower-level interface that allows you to work with SQL directly, while the…
+SQLAlchemy ORM is a higher-level interface that allows you to work with databases using Python objects. 
+
+💻 I started with the CORE. So:  
+
+I created a Python project and a virtual environment with #venv
+I installed SQLAlchemy and #DB Browser.
+I created, connected and tested a database.
+I learned to insert, select, update and delete in the database. 
+
+I have the repository here, with LOADS of notes I took while learning in the readme file: 
+
+log: https://github.com/vanesascode/100-days-of-code/blob/master/log.md
+
+🔹 **HOW TO CONTINUE:**
+
+Next, I’ll be dealing with the ORM. I’ll be explaining about it here! 💪
+
+***
 
