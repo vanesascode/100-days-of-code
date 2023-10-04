@@ -994,3 +994,17 @@ Next, I’ll be dealing with the ORM. I’ll be explaining about it here! 💪
 
 ***
 
+Day 5️⃣6️⃣: October 4, 2023 - Introduction to #SQLAlchemy (#ORM)
+
+As I mentioned some days ago, I would be learning too about the ORM in SQLAlchemy💻
+
+So again, I practiced connecting a database and inserting, updating and deleting data. But this time not using #SQL #syntax, but using #Python objects and methods. 
+
+I learned to create #model tables and to work using the #session object instead of the #meta_obj I used with the CORE SQLAlchemy component. 
+
+🔹 **HOW TO CONTINUE:**
+
+Next,  I will be working on the @4geeks bootcamp activities 💪
+
+***
+
