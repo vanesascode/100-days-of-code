@@ -821,7 +821,7 @@ I’ll be showing the functionalities and the styles, in future days…
 
 ***
 
-Day4️⃣6️⃣: September 22, 2023 challenge - Happy with the #ContactList 🌟
+Day 4️⃣6️⃣: September 22, 2023 challenge - Happy with the #ContactList 🌟
 
 In the final stage of the contact list activity using the @4geeksacademy school #API, I think I’ve learned quite a bit about the way in which you manage the states and the functions from your #ContextApi in #React, and into your components. 
 
@@ -840,7 +840,7 @@ Also teacher Juanjo for revising it!
 
 ***
 
-Day 4️⃣7️⃣: September 23, 2023
+Day 4️⃣7️⃣ : September 23, 2023
 
 Styling #Star #Wars Reading List
 
@@ -852,7 +852,7 @@ code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
 
 ***
 
-Day 4️⃣8️⃣: September 25, 2023 
+Day 4️⃣8️⃣ : September 25, 2023 
 
 Styling #Star #Wars Reading List:
 
@@ -868,7 +868,7 @@ code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
 
 ***
 
-Day 4️⃣9️⃣: September 26, 2023
+Day 4️⃣9️⃣ : September 26, 2023
 
 Styling #Star #Wars Reading List
 
@@ -884,7 +884,7 @@ Little by little but without pause ☯
 
 ***
 
-Day 5️⃣0️⃣: September 27, 2023
+Day 5️⃣0️⃣ : September 27, 2023
 
 As scheduled, today I am showing the #Favourites feature: 
 
@@ -902,7 +902,7 @@ Let’s go now for the final touches! 🌟
 
 ***
 
-Day 5️⃣1️⃣: September 28, 2023 - Todolist with #Redux 💻
+Day 5️⃣1️⃣ : September 28, 2023 - Todolist with #Redux 💻
 
 I have added a new way of coding a todolist to my todolists repository. So far, in there I had examples of them using useState and useReducer.
 
@@ -916,7 +916,7 @@ code: https://github.com/vanesascode/todolist-from-easy-to-complex-react-tsx
 
 ***
 
-Day5️⃣2️⃣: September 28, 2023 - Introduction to #SQL #Databases
+Day 5️⃣2️⃣ : September 28, 2023 - Introduction to #SQL #Databases
 
 So, at the @geeksbootcamp we have started the module of SQL (Structured Query Language) , so now I need to spend some time studying rather than coding. 
 
@@ -933,7 +933,7 @@ And between today and tomorrow, and next few days, I’ll be mastering the SQL #
 
 ***
 
-Day5️⃣3️⃣: October 1, 2023 - Practicing #SQL #syntax
+Day 5️⃣3️⃣ : October 1, 2023 - Practicing #SQL #syntax
 
 So, as I mentioned before, I am learning to use syntax such as: 
 
@@ -946,7 +946,7 @@ I recommend this cool website to practice: https://sqlbolt.com/
 
 ***
 
-Day 5️⃣4️⃣: October 2, 2013 - #star #wars reading list finished! 🌟
+Day 5️⃣4️⃣ : October 2, 2013 - #star #wars reading list finished! 🌟
 
 So, the force was with me to finish it! 
 
@@ -966,7 +966,7 @@ code: https://github.com/4GeeksAcademy/vj-Starwars-blog-reading-list
 
 ***
 
-Day 5️⃣5️⃣: October 3, 2023 - Introduction to #SQLAlchemy (CORE)
+Day 5️⃣5️⃣ : October 3, 2023 - Introduction to #SQLAlchemy (CORE)
 
 So, after learning SQL, it’s time to learn how to deal with it with an #ORM (Object-Relational Mapper) or library to create and manipulate databases. 
 
@@ -994,7 +994,7 @@ Next, I’ll be dealing with the ORM. I’ll be explaining about it here! 💪
 
 ***
 
-Day 5️⃣6️⃣: October 4, 2023 - Introduction to #SQLAlchemy (#ORM)
+Day 5️⃣6️⃣ : October 4, 2023 - Introduction to #SQLAlchemy (#ORM)
 
 As I mentioned some days ago, I would be learning too about the ORM in SQLAlchemy💻
 
@@ -1007,7 +1007,7 @@ I learned to create #model tables and to work using the #session object instead 
 Next,  I will be working on the @4geeks bootcamp activities 💪
 
 ***
-Day 5️⃣7️⃣: October 5, 2023 - Draft of Portfolio with #Figma
+Day 5️⃣7️⃣ : October 5, 2023 - Draft of Portfolio with #Figma
 
 I have been wanting to start my first portfolio for some time, to have a nice place to show my projects.
 
