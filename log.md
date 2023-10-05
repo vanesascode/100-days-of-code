@@ -821,7 +821,7 @@ I’ll be showing the functionalities and the styles, in future days…
 
 ***
 
-Day 4️⃣ 6️⃣ : September 22, 2023 challenge - Happy with the #ContactList 🌟
+Day 4️⃣6️⃣ : September 22, 2023 challenge - Happy with the #ContactList 🌟
 
 In the final stage of the contact list activity using the @4geeksacademy school #API, I think I’ve learned quite a bit about the way in which you manage the states and the functions from your #ContextApi in #React, and into your components. 
 
