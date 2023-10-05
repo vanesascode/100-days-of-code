@@ -1007,4 +1007,19 @@ I learned to create #model tables and to work using the #session object instead 
 Next,  I will be working on the @4geeks bootcamp activities 💪
 
 ***
+Day 5️⃣7️⃣: October 5, 2023 - Draft of Portfolio with #Figma
+
+I have been wanting to start my first portfolio for some time, to have a nice place to show my projects.
+
+However, I didn't want to just start doing something willy-nilly, but rather I wanted to have a good draft first and think about all the organization and features it was going to have. A perfect time to learn more about Figma.
+
+I had used it a bit in my previous job, but I was the content creator, not the designer. And now I've had to learn many of the design tools.
+
+As you can see, I'm not a very good designer, but the result offers a good vision of what I would like to build. I want to add a lot of dynamic elements that can't be seen in the draft, but I can annotate them next to the part I want to implement.
+
+![Captura 3](https://github.com/vanesascode/introduction-to-sqlalchemy-sqlite-python-venv-dbbrowser/assets/131259155/5fc8e17f-5eab-4edd-8b79-f807ea5a026a)
+
+***
+
+
 
