@@ -1022,5 +1022,13 @@ As you can see, I'm not a very good designer, but the result offers a good visio
 
 ***
 
+### Day 5️⃣8️⃣: October 6, 2023 - Database diagrams
 
+At class, at the @4geeksacademy bootcamp,  we used the #SQLAlchemy library in #Python to define database model tables and relationships. 
+
+Then, we used the #ERAlchemy (https://github.com/Alexis-benoist/eralchemy) library to generate entity-relationship diagrams.
+
+So, we did the tables of the #StarWars Reading List we created with React days ago, and the tables of what it would be the database of #Instagram
+
+***
 
