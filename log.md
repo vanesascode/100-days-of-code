@@ -1043,3 +1043,14 @@ Then using useEffects to remove the intro and make the rest of the home page app
 The particles background added difficulty to what I just explained above, also, thinking that I don’t want the intro to appear everytime the component is mounted… so I’ll see how I solve it. I defined some challenges in the draft that will now need some good thinking to solve them! 
 
 ***
+### Day 6️⃣0️⃣: October 9, 2023 -  #PYTHON !!!
+
+I remember studying a bit of Python before starting the @4geeks bootcamp , and since then, if encountered, I’ve been able to understand it quite well. 
+
+However, now it’s been time to learn it in depth! So, in class we’ve been busy with that, with readings, lessons and online exercises. 💻
+
+About the readings and classes, I have to say that it was very useful to compare #Javascript and #Python. 
+
+The exercises… they are thousands again, as with the Javascript ones! So I’ll be entertained with that for a while! 💪
+
+***
