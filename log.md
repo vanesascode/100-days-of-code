@@ -1054,3 +1054,17 @@ About the readings and classes, I have to say that it was very useful to compare
 The exercises… they are thousands again, as with the Javascript ones! So I’ll be entertained with that for a while! 💪
 
 ***
+
+### Day 6️⃣1️⃣: October 10, 2023 - Todo List API in Python Flask
+
+In this exercise at the 4geeks bootcamp class, we created these endpoints with Python (see code). 
+
+I am very excited because at the moment we are building another API which we will connect to a database and make the whole backend process ourselves. 
+
+The rest of activities at the bootcamp will be all related about backend, which is the part I less know at the moment, until we finally join frontend and backend in the final project. I’ll have the chance to work with the whole full stack using both Python and Javascript and can’t wait for it! 
+
+Code: https://github.com/vanesascode/4geeks-python-flask-api-todolist-tutorial
+
+***
+
+
