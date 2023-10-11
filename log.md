@@ -1067,4 +1067,18 @@ Code: https://github.com/vanesascode/4geeks-python-flask-api-todolist-tutorial
 
 ***
 
+### Day 6️⃣2️⃣: October 11, 2023 - Portfolio progress 🔵
+
+I’ve continued building on my portfolio and so far I almost have the intro, the home and the menu. 
+
+I know the hamburger on the big screen is not usual, but I got inspired by other websites, and, since I am focusing on design as much as usability, I took the liberty of doing it. You can open and close it as a normal menu, but it takes up the entire screen for aesthetics. 
+
+I didn’t want a standard mouse, so I am working on that too. I am using the framer-motion library at the moment, but I don't rule out the possibility of using another lighter one. The particles library is quite heavy so I have to be careful. That is why, all the animations on the rest of components are made exclusively with CSS. 
+
+All icons are SVG, so I can manage them easily, and the dark mode is made with the Tailwind dark class. 
+
+I look forward to showing you more as I progress!
+
+***
+
 
