@@ -1081,4 +1081,15 @@ I look forward to showing you more as I progress!
 
 ***
 
+### Day 6️⃣3️⃣: October 12, 2023 - Learning Backend
+
+As I mentioned the other day, we keep working on backend at the @4geeksacademy bootcamp. 
+
+We are now with Flask, creating the endpoints of the server to work with the data of a PostgreSQL database, which we are dealing with through database models. All this with 4geeks boilerplate on codespace. 
+
+Little by little we keep making it more difficult. 💪
+
+***
+
+
 
