@@ -1091,5 +1091,15 @@ Little by little we keep making it more difficult. 💪
 
 ***
 
+### Day 6️⃣4️⃣: October 13, 2023 - Portfolio responsiveness
+
+Today I worked a bit more on the portfolio,  creating several breakpoints and adapting sizes of all to them. It’s incredible how many hours I stay with this eventually,  since everytime I try to leave the computer I see a new little detail I can’t help trying to improve. 
+
+Also, I got rid of the circle cool mouse, although I left the crosshair style for the cursor. This is because, yes, I need to save kbs for the project to work properly… Also, I was cleaning the code as much as I could at this stage for this very same reason. 
+
+I start having some notes about my code on #github: https://github.com/vanesascode/vanesascode_portfolio
+
+***
+
 
 
