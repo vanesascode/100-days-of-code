@@ -1101,5 +1101,15 @@ I start having some notes about my code on #github: https://github.com/vanesasco
 
 ***
 
+### Day 6️⃣5️⃣: October 15, 2023 - Going in depth with #NextJS
 
+As I mentioned these days, I'm building my portfolio with NextJS. First I was going to use VITE, as I have been doing until now, however, although I was still not very familiar with NextJS, I preferred to use it better, due to its better configuration and route stability (and more, although I wasn’t that aware by then).
+
+So before continuing, I thought I should study the framework a little more to get the most out of it. So I decided to take courses by @javascriptmastery who has really specialized in NextJS lately. 
+
+I am currently learning about the #server/client components, the app file #router (layout, page, dynamic routes, loading, errors) , the #metadata for better SEO, and more. I’m especially surprised by the server possibilities and the benefits of having the #backend separated from the frontend using just #React. 
+
+Below, you have a pic in which you can see I have been able to connect Next to #MongoDB and #Google Cloud Console, using Next-Auth, in order to be able to #login with the google email into a new app I am building (and of which I will talk more in future days) 
+
+***
 
