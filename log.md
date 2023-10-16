@@ -1113,3 +1113,14 @@ Below, you have a pic in which you can see I have been able to connect Next to #
 
 ***
 
+### Day 6️⃣6️⃣: October 16, 2023 - More #NextJS Backend!
+
+I’m excited to have created another backend endpoint in my new NextJS app! This app is going to be a repository of AI prompts, kind of https://prompthero.com/ but much simpler for now.
+
+So, I created the #model and the #endpoint for the prompts  on the #server side, and the form on the #client side  in order to be able to create them from the app. Next step will be to render these prompts on the app #frontend as beautifully as possible! 
+
+I’m explaining the process in the code readme: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb-bcrypt
+
+***
+
+
