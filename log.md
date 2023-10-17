@@ -1123,4 +1123,11 @@ I’m explaining the process in the code readme: https://github.com/vanesascode/
 
 ***
 
+### Day 6️⃣7️⃣: October 17, 2023 - Authentication and authorization in #Flask
+
+We continue with the #Backend at the @4geeksacademy Bootcamp. Now we are learning how to create endpoints in our #Python #API so users can register/login in our app, and  to provide them with tokens so they can access the private resources, all using the library Flask #JWT Extended.
+
+Little by little we keep making it more difficult. 💪
+
+***
 
