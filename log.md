@@ -1131,3 +1131,14 @@ Little by little we keep making it more difficult. 💪
 
 ***
 
+### Day 6️⃣8️⃣: October 18, 2023 - Rendering authenticated prompts! 
+
+As I mentioned some days ago, I am building an app that is going to be a repository of AI prompts, kind of https://prompthero.com/ but much simpler. This is a way to get more familiar using #NextJS and its super cool server features. 
+
+Now you can see how every user (logged in with Google)  can create their own prompts in the app. 
+
+Next, I’ll be adding more features to the prompts, such as being able to copy them with a click, editing or deleting them. 
+
+Code: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb-bcrypt
+
+***
