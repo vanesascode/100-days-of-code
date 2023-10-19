@@ -1142,3 +1142,14 @@ Next, I’ll be adding more features to the prompts, such as being able to copy 
 Code: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb-bcrypt
 
 ***
+
+Day 6️⃣9️⃣ #100DaysOfCode challenge - Authentication and authorization in #Flask
+
+There is some good progress on the @4geeksacademy Bootcamp project we are doing now. 
+I have users in my #database, so I can log in and access private info from the #backend thanks to their #token. 
+
+Next, I’ll be adding more info to these users and rendering it into a private page once they are logged in. And I’ll be adding more #UX to the app by adding more messages to the users depending on what they are doing.
+
+I look forward to having it ready! 💪
+
+***
