@@ -1143,7 +1143,7 @@ Code: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb-bcrypt
 
 ***
 
-Day 6️⃣9️⃣ #100DaysOfCode challenge - Authentication and authorization in #Flask
+### Day 6️⃣9️⃣ #100DaysOfCode challenge - Authentication and authorization in #Flask
 
 There is some good progress on the @4geeksacademy Bootcamp project we are doing now. 
 I have users in my #database, so I can log in and access private info from the #backend thanks to their #token. 
