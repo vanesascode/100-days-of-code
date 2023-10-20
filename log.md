@@ -1119,7 +1119,7 @@ I’m excited to have created another backend endpoint in my new NextJS app! Thi
 
 So, I created the #model and the #endpoint for the prompts  on the #server side, and the form on the #client side  in order to be able to create them from the app. Next step will be to render these prompts on the app #frontend as beautifully as possible! 
 
-I’m explaining the process in the code readme: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb-bcrypt
+I’m explaining the process in the code readme: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb
 
 ***
 
@@ -1139,11 +1139,11 @@ Now you can see how every user (logged in with Google)  can create their own pro
 
 Next, I’ll be adding more features to the prompts, such as being able to copy them with a click, editing or deleting them. 
 
-Code: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb-bcrypt
+Code: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb
 
 ***
 
-### Day 6️⃣9️⃣ #100DaysOfCode challenge - Authentication and authorization in #Flask
+### Day 6️⃣9️⃣: October 19, 2023 - Authentication and authorization in #Flask
 
 There is some good progress on the @4geeksacademy Bootcamp project we are doing now. 
 I have users in my #database, so I can log in and access private info from the #backend thanks to their #token. 
@@ -1151,5 +1151,17 @@ I have users in my #database, so I can log in and access private info from the #
 Next, I’ll be adding more info to these users and rendering it into a private page once they are logged in. And I’ll be adding more #UX to the app by adding more messages to the users depending on what they are doing.
 
 I look forward to having it ready! 💪
+
+***
+
+### Day 7️⃣0️⃣: October 20, 2023 - Editing and Deleting Authenticated prompts 🔧🔨
+
+In my app `promptgenius`, an AI prompts repository,  now you can edit and delete prompts inside the user’s  personal profile. 
+
+It is a bit hard at the beginning connecting the endpoints with the components, the fetches, the functions, etc. so everything makes sense, especially with the dynamic routes. But little by little I am getting familiar with all that in #NextJS 💪
+
+The next step will be to manage the other users profiles too, and above all, the #searchbar to be able to search by prompt, user or tag. 
+
+My code notes: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb
 
 ***
