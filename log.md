@@ -1165,3 +1165,13 @@ The next step will be to manage the other users profiles too, and above all, the
 My code notes: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb
 
 ***
+
+### Day 7️⃣1️⃣: October 21, 2023 - Understanding backend better in #Flask & fetches in #React
+
+I’ve had one of those ‘ahahhh’ 😮 moments after days working on making the backend routes and the frontend fetches work together correctly. It proves that only practice makes you really know what you think you understood the first day when you learnt about the theory. 
+
+To set the status codes is so important in the backend routes… I wasn’t that aware at the beginning. And setting the conditionals in the frontend to get the results you want is just an art… 
+
+In short, the hours of frustration paid off. However, much much more has to be practiced to become a full stack Jedi. 🌟
+
+***
