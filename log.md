@@ -1175,3 +1175,11 @@ To set the status codes is so important in the backend routes… I wasn’t that
 In short, the hours of frustration paid off. However, much much more has to be practiced to become a full stack Jedi. 🌟
 
 ***
+
+### Day 7️⃣2️⃣: October 23, 2023 - Portfolio projects preview page
+
+Today I have recovered my portfolio creation work. It was the turn of the projects' preview page.
+
+Instead of just having images of my apps, I decided to add a gif that activates when you hover over the static image. Additionally, they have frames of thinkpad laptops which will become more evident on the individual description page I will create below for each project (why? first, they adds a retro style to the already retro design of the website, and second, we have a thing for old thinkpads at home, strange but true)
+
+***
