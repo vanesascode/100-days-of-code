@@ -1183,3 +1183,13 @@ Today I have recovered my portfolio creation work. It was the turn of the projec
 Instead of just having images of my apps, I decided to add a gif that activates when you hover over the static image. Additionally, they have frames of thinkpad laptops which will become more evident on the individual description page I will create below for each project (why? first, they adds a retro style to the already retro design of the website, and second, we have a thing for old thinkpads at home, strange but true)
 
 ***
+
+### Day 7️⃣3️⃣: October 24, 2023 - Search functionality with #NextJS
+
+Continuing my AI prompts repository app, I’ve implemented a search functionality that  allows  users to search for prompts based on the content, user, or tag associated with the prompts.
+
+The search system utilizes a regular expression to match the search query against the relevant data. To enhance the user experience, I have incorporated a #debounce mechanism that introduces a slight delay before executing the search, ensuring a smoother and more responsive interaction.
+
+Code: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb
+
+***
