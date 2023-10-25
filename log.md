@@ -1193,3 +1193,75 @@ The search system utilizes a regular expression to match the search query agains
 Code: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb
 
 ***
+
+### Day 7️⃣4️⃣ #100DaysOfCode challenge - #React trick!
+
+I was working on my portfolio projects’ preview page, and really wanted to add an arrow next to the title of each project when it was hovered. 
+
+I used a useState to set it, but I encountered the problem that when hovering one project, all projects made their arrow appear, since I am rendering the projects from a constants js file with a map function. 
+
+So I solved it by adding the useState inside in the map function. I didn’t know you could do that! It may sound strange if you didn’t know it either, but it works: 
+
+```
+
+const ProjectsList = () => {
+
+  return (
+      <div>
+        {projectsPreviews.map((pp) => {
+          const [isHovered, setIsHovered] = useState(false);
+
+          const handleMouseEnter = () => {
+            setIsHovered(true);
+          };
+
+          const handleMouseLeave = () => {
+            setIsHovered(false);
+          };
+
+          return (
+            <div
+              key={pp.id}
+              onMouseEnter={handleMouseEnter}
+              onMouseLeave={handleMouseLeave}
+            >
+
+              <div>
+                <img
+                  src={pp.frame}
+                   />
+
+                <img
+                  src={pp.img}
+                   />
+
+                <img
+                  src={pp.video}
+                   />
+              </div>
+
+              <div>
+                <p>
+                  {pp.title}
+                </p>
+                <img
+                  src= "/up-arrow.svg"
+                  alt="arrow to go to website"
+                  className={` ${
+                    isHovered ? "opacity-100" : "opacity-0"
+                  }`}
+                />
+              </div>
+
+              <p>
+                {pp.desc}
+              </p>
+            </div>
+          );
+        })}
+      </div>
+  );
+};
+```
+***
+
