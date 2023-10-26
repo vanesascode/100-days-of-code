@@ -1194,7 +1194,7 @@ Code: https://github.com/vanesascode/promptgenius-nextjs-nextauth-mongodb
 
 ***
 
-### Day 7️⃣4️⃣ #100DaysOfCode challenge - #React trick!
+### Day 7️⃣4️⃣: October 25, 2023 - #React trick!
 
 I was working on my portfolio projects’ preview page, and really wanted to add an arrow next to the title of each project when it was hovered. 
 
@@ -1264,4 +1264,12 @@ const ProjectsList = () => {
 };
 ```
 ***
+### Day 7️⃣5️⃣: October 26, 2023 - Individual page for each project: 
 
+So, continuing with the portfolio, I managed to render the more detailed info about each project, from the constants js file, into its page, which has a dynamic url. 
+
+The biggest challenge I’m having, though, it’s about design and lots of css. Time spent on Figma and video editors… Made just one project, but the same has to be done for all of them… 😅
+
+By the way, the project you can see below is the AI prompts repository! Which is finished ( I added some sharing buttons as the last feature) and can be visited here:  https://promptgenius-chi.vercel.app/
+
+***
