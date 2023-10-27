@@ -1273,3 +1273,17 @@ The biggest challenge I’m having, though, it’s about design and lots of css.
 By the way, the project you can see below is the AI prompts repository! Which is finished ( I added some sharing buttons as the last feature) and can be visited here:  https://promptgenius-chi.vercel.app/
 
 ***
+
+### Day 7️⃣6️⃣: October 27, 2023 - New #NextJS14 project!
+
+Yesterday I couldn’t believe they were announcing the NextJs 14 already at the #NextJSConf … Jesus,  I haven’t even learned the 13 one yet! 🥵
+
+So, it’s time to keep practicing and started a new course in which the project will be kind of a clone of #Threads by #Meta.  It will be an opportunity to keep messing with NextJS features (with #Typescript this time) 
+
+Today I learned about “Route Groups”, which are folders that  let you nest layouts in the same route segment level. (You just have to wrap the folder into parenthesis to create one of those) 
+
+Also, I started learning about #Clerk , which is an open-source identity and access management platform. I can only say I love it for its simplicity and easy docs,  but also for its so powerful features 😍
+
+As for #TailwindCSS I can say that I now prefer adding some of my  ‘classes’ in my tailwind.config file. In the fontSize options, you can add your types of text there, for example. This way, when you hover over the class in your project, you have the “IntelliSense” or cheat sheet that tells you what it is made of, something that the @layout utilities or components don’t tell you. 
+
+***
