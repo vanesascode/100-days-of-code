@@ -1287,3 +1287,13 @@ Also, I started learning about #Clerk , which is an open-source identity and acc
 As for #TailwindCSS I can say that I now prefer adding some of my  ‘classes’ in my tailwind.config file. In the fontSize options, you can add your types of text there, for example. This way, when you hover over the class in your project, you have the “IntelliSense” or cheat sheet that tells you what it is made of, something that the @layout utilities or components don’t tell you. 
 
 ***
+
+### Day 7️⃣7️⃣: October 28, 2023 - Building a form with Shadcn/ui, react-hook-form, Zod and uploadthing.
+
+If you read the title, yeah, too many tools to be learned at once just to build a form. I am following this advanced course I mentioned before on building a social media app, and I have to say that so far it is too much for me at the same time. 
+
+So, I have stopped the course here for now, and tomorrow I will be studying the #react-hook-form library docs only and getting some practice with it. Then, I think I can continue investigating the  #Shadcn/ui components and the  #Zod validations a bit more, and about uploading files with #uploadthing (or with other methods) too before continuing the course. 
+
+Anyway, I can’t wait to learn more about everything!
+
+***
