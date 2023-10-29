@@ -1297,3 +1297,14 @@ So, I have stopped the course here for now, and tomorrow I will be studying the 
 Anyway, I can’t wait to learn more about everything!
 
 ***
+
+### Day 7️⃣8️⃣  #100DaysOfCode challenge  - React-Hook-Form 
+ 
+
+So, as I mentioned yesterday, today I have been reading the #React-Hook-Form library docs and having a go with it in VScode. 
+
+It really makes handling the data and the message errors in forms much easier! 
+
+I can now say I am a bit more familiar with it, so I can start using it along with UI stuff.
+
+***
