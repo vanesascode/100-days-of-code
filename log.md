@@ -1298,7 +1298,7 @@ Anyway, I can’t wait to learn more about everything!
 
 ***
 
-### Day 7️⃣8️⃣  #100DaysOfCode challenge  - React-Hook-Form 
+### Day 7️⃣8️⃣ : October 29, 2023  - React-Hook-Form 
  
 
 So, as I mentioned yesterday, today I have been reading the #React-Hook-Form library docs and having a go with it in VScode. 
