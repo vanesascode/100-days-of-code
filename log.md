@@ -1308,3 +1308,17 @@ It really makes handling the data and the message errors in forms much easier!
 I can now say I am a bit more familiar with it, so I can start using it along with UI stuff.
 
 ***
+
+### Day 7️⃣9️⃣: October 31, 2023 - Better solution for the problem of adding individual states to mapped elements: 
+
+So I few days ago, I  was working on my portfolio projects’ preview page, and really wanted to add an arrow next to the title of each project when it was hovered on. 
+
+I used a useState to set it, but I encountered the problem that when hovering one project, all projects made their arrow appear, since I was rendering the projects from a constants js file with a map function. So I thought I had solved it by adding the useState inside the map function, which apparently worked well. 
+
+However, I’ve wanted to do the same today in my blog articles list, along with a search bar to be able to find any article by any keyword. When I tested the search bar, it gave me the: “Error: Rendered more hooks than during the previous render. “ which I investigated to find it was a problem having to do with my usestate inside the map loop.
+
+That’s why I had to find another solution (and consider the previous one as bad practice). I solved it by adding another state variable (this time outside the loop, of course) which keeps track of the index of the article that is being hovered on. The onMouseEnter and onMouseLeave events  update such state accordingly. Inside the map function, I added a new variable which checks if the current index matched the index variable. 
+
+Gist: https://gist.github.com/vanesascode/2d0a67975a788070901e2e29fa08c3cc
+
+***
