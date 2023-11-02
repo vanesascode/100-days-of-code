@@ -1322,3 +1322,52 @@ That’s why I had to find another solution (and consider the previous one as ba
 Gist: https://gist.github.com/vanesascode/2d0a67975a788070901e2e29fa08c3cc
 
 ***
+
+### Day 8️⃣0️⃣: Nov, 1 - Blog progressing!
+
+I have the blog list and can go into each particular pill ( I called them like that, because they are going to be short writings ) using #NextJS dynamic segments.
+
+I added the up transition effect for the arrows suggested by @muhham It really was a good idea, it feels much better now! Thanks for the feedback on my work :) 
+
+I also added a  custom scrollbar, which I really like and adds to the style of the site. I used these properties: 
+
+```
+.custom-scrollbar-dark::-webkit-scrollbar,
+.custom-scrollbar-light::-webkit-scrollbar {
+  width: 5px;
+  height: 3px;
+}
+
+
+/*dark*/
+.custom-scrollbar-dark::-webkit-scrollbar-track {
+  background: #000000;
+}
+
+
+.custom-scrollbar-dark::-webkit-scrollbar-thumb {
+  background: #bab6e4;
+}
+
+
+.custom-scrollbar-dark::-webkit-scrollbar-thumb:hover {
+  background: #ffffff;
+}
+```
+
+***
+
+
+### Day 8️⃣1️⃣ Nov, 2 - React-Hook-Form + Zod + Typescript
+
+Today I’ve again worked on forms, yeeeeehhh forms again. You must be bored by now. 
+
+But they are an important component in websites so the more you practice, the better 🤷‍♀️
+
+So, I have been creating the same form but with different kinds of code, to again see the differences and get more used to the forms functionality: just using React tools, then again with React-Hook-Form library; and then again, this time,  creating a Zod schema, connecting Zod with React-Hook-Form, and creating an endpoint to apply the Zod schema as validation in the server too. 
+
+#Zod is great, but to get a real validation in the server, so I receive a 400 error if something is wrong and so on, I had to use NextResponses anyway. 
+
+So here you have the project in which you can see the code and notes in the readme: https://github.com/vanesascode/react-hook-form-zod-typescript-server-errors-exercises
+
+***
