@@ -1371,3 +1371,13 @@ So, I have been creating the same form but with different kinds of code, to agai
 So here you have the project in which you can see the code and notes in the readme: https://github.com/vanesascode/react-hook-form-zod-typescript-server-errors-exercises
 
 ***
+
+### Day 8️⃣2️⃣ Nov, 3 - Messing with Shadcn/ui 
+
+Shadcn/ui is very much on fire these days and it was used in the social media course I was following. So, I took the opportunity today just to focus on what it is and how to use it. 
+
+It is a library of components for React, that can sound similar to Bootstrap, but the difference is that you actually create React components to be used. They can be customized with Tailwind and they are really easy to use. 
+
+The one I liked the most so far is the ‘skeleton’ one, which offers professional placeholders for your stuff when it is loading. And also, how easy it was to customize the colors theme and set the dark mode. 
+
+***
