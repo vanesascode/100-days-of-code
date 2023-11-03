@@ -1380,4 +1380,6 @@ It is a library of components for React, that can sound similar to Bootstrap, bu
 
 The one I liked the most so far is the ‘skeleton’ one, which offers professional placeholders for your stuff when it is loading. And also, how easy it was to customize the colors theme and set the dark mode. 
 
+Code: https://github.com/vanesascode/shadcn-ui-crash-course-recipe-app-json-server
+
 ***
