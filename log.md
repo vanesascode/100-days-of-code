@@ -1358,7 +1358,7 @@ I also added a  custom scrollbar, which I really like and adds to the style of t
 ***
 
 
-### Day 8️⃣1️⃣ Nov, 2 - React-Hook-Form + Zod + Typescript
+### Day 8️⃣1️⃣: Nov 2, 2023 - React-Hook-Form + Zod + Typescript
 
 Today I’ve again worked on forms, yeeeeehhh forms again. You must be bored by now. 
 
@@ -1372,7 +1372,7 @@ So here you have the project in which you can see the code and notes in the read
 
 ***
 
-### Day 8️⃣2️⃣ Nov, 3 - Messing with Shadcn/ui 
+### Day 8️⃣2️⃣: Nov 3, 2023 - Messing with Shadcn/ui 
 
 Shadcn/ui is very much on fire these days and it was used in the social media course I was following. So, I took the opportunity today just to focus on what it is and how to use it. 
 
@@ -1381,5 +1381,18 @@ It is a library of components for React, that can sound similar to Bootstrap, bu
 The one I liked the most so far is the ‘skeleton’ one, which offers professional placeholders for your stuff when it is loading. And also, how easy it was to customize the colors theme and set the dark mode. 
 
 Code: https://github.com/vanesascode/shadcn-ui-crash-course-recipe-app-json-server
+
+***
+
+### Day 8️⃣3️⃣: Nov 4, 2023 - Continuing social media app
+
+So now that I have been working with the different technologies individually, I can continue with the social media app course. 
+
+Below you will see, #Clerk, #React-hook-form, #Zod and #Shadcn/ui all in action at the same time, using #Typescript. 
+Also, #Uploadthing, to load the images, which I found quite difficult to understand (although they say it’s easier to use than other web services like Amazon S3, which I haven’t used yet, though 🤷) 
+
+Next step is to work with the backend so it is all functional. 💪
+
+code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
 
 ***
