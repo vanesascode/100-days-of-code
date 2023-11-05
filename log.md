@@ -1396,3 +1396,26 @@ Next step is to work with the backend so it is all functional. 💪
 code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
 
 ***
+
+Day 8️⃣4️⃣ #100DaysOfCode challenge - #Next.js #Server #Actions
+
+So, as I mentioned yesterday, it’s time for the backend of the social media app I am building these days
+However, this time, I am not having an api server folder inside the “app” router. 👉 Instead, I am using Next.js “server actions”. 
+
+With server actions, you can define server-side functions without needing separate api routes. These functions can access the form data and perform the necessary server-side operations, such as updating the database. 🌟
+
+You can wrap the connection to the database and the actions in a try and catch structure, but what you won’t have is the possibility of adding the server status you like, or at least I couldn’t (correct me if I am wrong, since I am just learning by myself basically and could be mistaken). Although you can see the status messages that keep occurring, in Chrome's network tab all the time, sure. 
+
+And you may say, but when a server action modifies data, such as updating user information or creating a new record, the updated data needs to be reflected on the client-side, right? That’s why Next.js has a #revalidatePath function that triggers a revalidation of the specified path, and which makes the page to be regenerated and updated with the latest data in real-time.  
+
+Another important thing is that you must set the “#use #server” indication at the top of your actions files. Otherwise you’ll get errors such, “can’t read properties of undefined” and things like that. This is because you can’t directly create database actions through the browser side.
+
+👉 Another thing I learned: 
+
+In the code below, notice that the order of the name, path, username, userId, bio, and image values in the object passed to the ‘updateUse’ function does not matter. The function is designed to extract those values from the object and use them in the correct order, regardless of the order in which they were passed.
+
+This is because the function is using object destructuring to extract the values of those properties from the object. #Object #destructuring allows you to extract values from objects by specifying the property names you want to extract, and the order of the property names in the destructuring statement does not matter. Why does it matter? Because it will avoid possible errors in the future. ✨
+
+code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
+
+***
