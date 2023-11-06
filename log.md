@@ -1397,7 +1397,7 @@ code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-cle
 
 ***
 
-Day 8️⃣4️⃣ #100DaysOfCode challenge - #Next.js #Server #Actions
+### Day 8️⃣4️⃣ #100DaysOfCode challenge - #Next.js #Server #Actions
 
 So, as I mentioned yesterday, it’s time for the backend of the social media app I am building these days
 However, this time, I am not having an api server folder inside the “app” router. 👉 Instead, I am using Next.js “server actions”. 
@@ -1415,6 +1415,20 @@ Another important thing is that you must set the “#use #server” indication a
 In the code below, notice that the order of the name, path, username, userId, bio, and image values in the object passed to the ‘updateUse’ function does not matter. The function is designed to extract those values from the object and use them in the correct order, regardless of the order in which they were passed.
 
 This is because the function is using object destructuring to extract the values of those properties from the object. #Object #destructuring allows you to extract values from objects by specifying the property names you want to extract, and the order of the property names in the destructuring statement does not matter. Why does it matter? Because it will avoid possible errors in the future. ✨
+
+code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
+
+***
+
+### Day 8️⃣5️⃣ #100DaysOfCode challenge - Another complex #NextJS Form
+
+So now that I have the 'users' managed in the social media app I am building,  I have repeated the process for the creation of the user's  ‘Threads (or Twits, or call them as you like). This time the process was easier because I didn’t have to deal with image files: 
+
+- So, I have again created a form, using #Shadcn/ui elements, adding #zod validation and connecting it to the #React-Hook-Form functionality of the form with a #resolver.
+
+- Then, I have created the #server #actions that work as backend endpoints in Next.js. As I mentioned yesterday, they are functions related to fetching, creating, deleting, and manipulating, in this occasion, threads. 
+
+- Of course, ‘threads’ #moongose #model has been created too, so the server actions can have access to the table threads in the database of #MongoDBAtlas. 
 
 code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
 
