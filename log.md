@@ -1397,7 +1397,7 @@ code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-cle
 
 ***
 
-### Day 8️⃣4️⃣ #100DaysOfCode challenge - #Next.js #Server #Actions
+### Day 8️⃣4️⃣: Nov 5, 2023 - #Next.js #Server #Actions
 
 So, as I mentioned yesterday, it’s time for the backend of the social media app I am building these days
 However, this time, I am not having an api server folder inside the “app” router. 👉 Instead, I am using Next.js “server actions”. 
@@ -1420,7 +1420,7 @@ code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-cle
 
 ***
 
-### Day 8️⃣5️⃣ #100DaysOfCode challenge - Another complex #NextJS Form
+### Day 8️⃣5️⃣: Nov 6, 2023 - Another complex #NextJS Form
 
 So now that I have the 'users' managed in the social media app I am building,  I have repeated the process for the creation of the user's  ‘Threads (or Twits, or call them as you like). This time the process was easier because I didn’t have to deal with image files: 
 
@@ -1433,3 +1433,18 @@ So now that I have the 'users' managed in the social media app I am building,  I
 code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
 
 ***
+
+### Day 8️⃣6️⃣: Nov 7, 2023 - searchParams and Pagination in #Nextjs
+
+Now that I can render threads in my social media app home page, it was time to apply some pagination to handle the amount of threads shown. 
+
+In Next.js, the #searchParams property is derived from the query parameters in the URL. It allows you to access and manipulate these parameters. So, to deal with the pagination, I was able to pass the searchParams object to the fetchPosts server action function in order to retrieve posts based on the page number. This server action function also gives me access to a variable I called ‘isNext’, which determines if there are more posts to show on the next page.
+
+To enable or disable the pagination buttons, I created a Pagination component. In there, there is a ‘handleNavigation’ function that handles the navigation logic based on the button clicked and updates the URL accordingly.
+
+The initial pagination value is set to 1, of course, and the searchParams object is updated with the new page value when the 'Next' button is clicked. This allows you to navigate through the pages and update the URL accordingly. (see the URL in the pic below) 
+
+code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
+
+***
+
