@@ -1448,3 +1448,22 @@ code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-cle
 
 ***
 
+### Day 8️⃣7️⃣: Nov 8, 2023 - Parent & Children Threads
+
+In this social media app I’m learning to build, users can post comments on existing threads. By using the parentId and children properties, it is possible to create a nested structure of comments, allowing for threaded conversations in a social media app. Each comment can have multiple replies, and these replies can have their own replies, creating a tree-like structure of comments.
+
+So:
+
+When I created the ‘thread’ model, I added an optional ‘parentID’ and possible ‘children’ properties that would be created when comments are saved. So, when the comment is created, it takes the id of the original thread as the parentID. This way I have it easy to render either original threads in the client’s (the ones that don’t have a parentID) and the comments (the ones that do have a parentID) 
+
+Then, in the same ‘addCommentToThread’ server action, I am pushing the comment as children to the original thread. So, while I am creating the comment, I am also updating the original thread with this new property in the database. This way, I can render together all the comments that are related to a particular original thread. 
+
+Since this is made recursive, once I create a comment from another comment, This second comment gets the ID of the first comment( which is the ID of the original comment) and sets it as its parentID. 
+
+Each thread is rendered in a ThreadCard component, which in the case of comments, has a boolean true  ‘isComment’ prop. This makes it possible to conditionally render or apply different styles or behaviors based on whether the component represents the original thread or a comment.
+
+And how is it that the comment passes to be kind of an ‘original thread’ in the individual thread page, when I create a comment of the comment? Because the Link that the button of replying holds, is going to /thread/${id} , thanks to params. And when clicking, then the individual thread page renders again, but placing each thread id into the Thread component that it has to go to…
+
+Jesus! I found it really hard to understand it all. However, trying to explain it here in the code challenge post, helped a lot to organize the code in my head and see the light. 
+
+code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
