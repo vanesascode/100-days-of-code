@@ -1467,3 +1467,20 @@ And how is it that the comment passes to be kind of an ‘original thread’ in 
 Jesus! I found it really hard to understand it all. However, trying to explain it here in the code challenge post, helped a lot to organize the code in my head and see the light. 
 
 code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
+
+***
+
+### Day 8️⃣8️⃣: Nov 9, 2023 - Conditionally rendering the profile page
+
+It is not new that the profile is rendered conditionally depending whether it is the profile of the user it is logged in or another user. It is a good way to reutilize the profile page and its components. 
+
+However, the special thing here in this app,  is that it uses the user id of both the database of Clerk and  the  database of MongoDB for the condition to render certain things in a profile or another. I will explain myself better: 
+
+- As I mentioned in previous days,  when the user is logged in for the first time, is registered in Clerk first. There it has an id. Then the user is sent to a process of onboarding, in which the user has to add more info to their profile. When this form is saved, the user has another id that comes from the mongoDB database. 
+
+- Then, when you click on the pic or the username of a post, you are sent to the path ‘/profile/{user.id}’ . This ‘id’ is the one from Clerk. So, by comparing this id from Clerk with the _id from mongoDB, of the current logged in user, I can add an edit button (see in the video) to the current user’s profile (because the result of the comparison is true) and make it not appear in the rest of user’s profiles (because the result of the comparison  is false). 
+
+code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
+
+***
+
