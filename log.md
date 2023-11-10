@@ -1484,3 +1484,15 @@ code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-cle
 
 ***
 
+### Day 8️⃣9️⃣: Nov 10, 2023 - Reusable components trick in #React
+
+The component that renders the threads in the social media app I’m building is a component that I reuse quite a lot. In the case of rendering all the comments (which are also thread components) of a particular thread, all together one below the other, I wanted to add more bottom margin below the icons, so the line below the profile pic also became longer. 
+
+A trick to add a modification that only applies to the component sometimes, is to add a prop to the component (only when you want the modification) that you can add to its code as a condition. If the prop is true, then the changes apply. 
+
+***
+
+
+
+
+
