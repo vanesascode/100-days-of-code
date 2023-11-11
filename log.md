@@ -1492,7 +1492,20 @@ A trick to add a modification that only applies to the component sometimes, is t
 
 ***
 
+### Day 9️⃣0️⃣: Nov 11, 2023 - Search users implemented
 
+The social media app I’ve been talking about these days, has now the part of searching users implemented. 
+
+In the AI prompts app I collected the search query (a string)  using ‘useState’ and then applying a regular expression in the ‘fetchPosts’ function to match the search query against the data. This time,  I am including the search query in the URL and collecting it in the ‘searchParams’ in order to send it to the ‘server action’ that is retrieving the users. 
+
+So in the search bar, if there is a search query in the input, then:  `router.push(`/${routeType}?q=` + search)`. The server action receives this searchParams and then it does the logic with the regular expression. Of course, if there is no search query, then the server action just gets all the users. 
+
+I build this search page along with the pagination I explained the other day, which also uses searchParams.
+
+code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
+
+
+***
 
 
 
