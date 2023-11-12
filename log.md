@@ -1508,4 +1508,18 @@ code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-cle
 ***
 
 
+### Day 9️⃣1️⃣: Nov 12, 2023 - Notification of comments by other users
 
+On day #89 of this code challenge, I explained how I had created the nested structure of comments: the 'thread' model has a parent id and children properties to track the relationship between comments. When a comment is saved, it takes the id of the original thread as its parent id. 
+
+👉 So, taking advantage of that, in the page activity you can see below, I am rendering the #notification of the comments made to the current user’s threads:
+
+- I created a server action that takes all of the threads of the current user and puts them into an array. Then, it  extracts the child thread IDs from the threads array and stores them into another array.
+
+- Then the server action returns the threads to be able to use them in the frontend, all ordered by date (using #date-fns library to render it beautifully) and populated with their user’s data. And, filtered, so the current user’s comments are not included, of course. 
+
+🤹 Also, I didn’t mention it before, but I am working on the final project of 4Geeks Academy Bootcamp along with other 3 classmates, and that is being a lot (a lot! ) of #teamwork and #github learnings. We’ll be able to show some results by the end of the month. 
+
+code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
+
+***
