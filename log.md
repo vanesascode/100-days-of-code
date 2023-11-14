@@ -1523,3 +1523,21 @@ On day #89 of this code challenge, I explained how I had created the nested stru
 code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
 
 ***
+
+### Day 9️⃣2️⃣ #100DaysOfCode challenge - #Webhooks
+
+In the course I’m following to build this social media app I’ve been talking about for the last days, we’ve learned the concept of “webhooks” 
+
+Webhooks are a way for web applications to send real-time notifications or data to other applications or services. 👉 They allow you to receive updates from an external service when a specific event or trigger occurs.
+
+As I mentioned, I am working with Clerk to do the initial authentication in the social app. It also lets you create “organizations” , which are shared accounts that can be created and managed within the Clerk administrative dashboard. 
+
+However, we need a webhook to make the data from Clerk go into the social media app, so we can manage it inside our app( for example, when an organization or membership is created, or deleted, etc) . It is necessary to have the webhook waiting and listening for the events from Clerk so we can then make additional actions and modify the database accordingly.
+
+👉 To do so, an endpoint is necessary in the api folder of the app. In there, we create the events to be listened to. Also, you must create a webhook inside your profile, in the Clerk website. To do so, the application must be deployed first to be able to expose the API route that will then be able to add as the endpoint. You can find more info about Clerk webhooks here: https://clerk.com/docs/integrations/webhooks
+
+Then, everything is just the same: create your #schema for the database, the #serveractions of the next.js backend and connect it all to the #endpoint.
+
+code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
+
+***
