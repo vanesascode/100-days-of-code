@@ -1524,7 +1524,7 @@ code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-cle
 
 ***
 
-### Day 9️⃣2️⃣ #100DaysOfCode challenge - #Webhooks
+### Day 9️⃣2️⃣: Nov 14, 2023 - #Webhooks
 
 In the course I’m following to build this social media app I’ve been talking about for the last days, we’ve learned the concept of “webhooks” 
 
@@ -1541,3 +1541,26 @@ Then, everything is just the same: create your #schema for the database, the #se
 code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
 
 ***
+
+### Day 9️⃣3️⃣: Nov 15, 2023 - post-MVP development
+
+The course is finished, and I can say that I have reached kind of  the "minimum viable product" (MVP) stage for the the “threds” social media app. 
+
+For the next few days, though, I am going to continue working on the app to add additional features, improve user experience, optimize performance, fix bug…
+
+For example, today: 
+
+- Personalized Placeholder in Search Bar: The input search bar now shows a personalized placeholder based on whether it appears on the search page or the community page. On the search page, the placeholder text is "Search communities," while on the community page, it is "Search creators." This provides a more intuitive and context-specific user experience.
+
+- Time and Date for All Threads: Previously, the time and date were only displayed for community threads. We have now extended this feature to include all threads, regardless of whether they belong to a community or a personal profile. Users can easily see when a thread was posted, helping them better understand the chronology of discussions.
+
+- Edit Button for Community Bio: The edit button for the community bio now only appears when the creator of the community enters the community profile. This ensures that only the creator can modify the community's bio, maintaining control over the community's information.
+
+- You can now update User and Community Profile Information: Users can now update their profile information from both personal and community profiles. However, not the image yet, that’s for another day. 
+
+A conclusion I got from this course, though, is that I still need more knowledge and practice with Typescript, so I am going to be starting Microsoft’s official certificate very soon. 
+
+code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-clerk-svix
+
+***
+
