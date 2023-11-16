@@ -1564,3 +1564,15 @@ code: https://github.com/vanesascode/threds-socialmedia-app-nextjs14-mongodb-cle
 
 ***
 
+### Day 9️⃣4️⃣: Nov 16, 2023 challenge - Too many things at the same time.
+
+Today I have nothing to show visually. Sorry. 
+
+I wanted to add the likes feature to the “threds” social media app, however, didn’t have much time because I am also working on the final project of the 4Geeks Academy España too, and since both things have difficult issues, I did many hours on the computer but didn’t get anything clean on anything. 
+
+This is also part of programming, and also helps build #patience. 
+
+***
+
+
+
