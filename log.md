@@ -1574,5 +1574,25 @@ This is also part of programming, and also helps build #patience.
 
 ***
 
+### Day 9️⃣5️⃣: Nov 17, 2023 - #JSDoc 
 
+These days I’ve decided to have “project + studying” instead of “project + project”. This way, I combine tasks during the day. 
+As I mentioned the other day, I wanted to start an official course on #Typescript by #Microsoft. And so, when I am tired I follow a bit of it. 
+Today I learned about #JSDoc, which is a markup language used to annotate JavaScript code with documentation comments. It allows you to describe the purpose, parameters, return values, and other details of your functions, classes, and variables. 
+
+🎉 JSDoc is cool because:
+
+It allows you to leverage the benefits of static type checking provided by TypeScript while still enjoying the flexibility and expressiveness of JavaScript. 
+And the notes let you remember what your code was about when you completely forget  😂
+
+JSDoc comments start with /** and end with */, and they can contain tags like @param, @returns, @typedef, and more. JSDoc comments can be used to generate API documentation using tools like JSDoc or typedoc. 
+
+Then, you can add the line //@ts-check in the file you want (or have a configuration in your `jsconfig.json`file for the whole project), that makes the code complain when a rule you set, just as it would happen with Typescript. 
+
+To get automatic #templates in VsCode, you just have to type /** before your code and click on the #IntelliSense suggestion.
+More info: https://jsdoc.app/
+
+Code of course: https://github.com/vanesascode/typescript-microsoft-course-build-javascript-applications-using-typescript
+
+***
 
