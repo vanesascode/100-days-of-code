@@ -1596,3 +1596,54 @@ Code of course: https://github.com/vanesascode/typescript-microsoft-course-build
 
 ***
 
+### Day 9️⃣6️⃣: Nov 18, 2023 - Search Bar Hell
+
+This Search Bar for the @4gekks final project has taken me days to make it work…
+
+It was a search bar component that had to be set in different places of the app, so all variables and functions had to come from the flux store. 
+
+I took the values of the useStates(took from the inputs of the form) and had to send them into the flux store through an action function that would receive the values and then store them in the flux store: 
+
+```
+
+saveInputs: (value, targetName) => {
+  setStore({ [targetName]: value });
+},
+```
+
+Until then, I had no clue how to make the search work more than once without having to  refresh the app every time…😭
+Once the values were in the flux store, I had to take them back again to the search bar and have them as parameters in another action function in the flux store.🥵  In that function there’s a diabolic filter: 
+
+```
+		
+      searchFilteredEvents: (city, eventName) => {
+				console.log("event as parameter of the searchFilteredEvents function:", eventName)
+				console.log("city as parameter of the searchFilteredEvents function:", city)
+				fetch(`${process.env.BACKEND_URL}/api/allEvents`)
+					.then((response) => {
+						if (!response.ok) {
+							throw new Error('Error fetching events');
+						}
+						return response.json();
+					})
+					.then((allEvents) => {
+						let filteredEvents = allEvents;
+						if (city !== null && eventName !== null) {
+							filteredEvents = allEvents.filter(el => {
+								const eventLocation = el.location.toLowerCase();
+								const eventNameLowerCase = el.name.toLowerCase();
+								return eventLocation.includes(city.toLowerCase()) && eventNameLowerCase.includes(eventName.toLowerCase());
+							});
+						}
+						console.log("filtered Events in the searchFilteredEvents function: ", filteredEvents);
+						setStore({ events: filteredEvents });
+
+					})
+					.catch((error) => {
+						console.error("Error:", error);
+					});
+			},
+
+```
+*** 
+
