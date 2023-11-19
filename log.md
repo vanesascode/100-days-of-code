@@ -1647,3 +1647,23 @@ Once the values were in the flux store, I had to take them back again to the sea
 ```
 *** 
 
+### Day 9️⃣7️⃣: Nov 19, 2023 - #tsc + #types
+
+I already knew about the #Typescript library and its ‘tsc’ #compiler. However, I went in depth with the #Microsoft course: learned more about the compiling options, which makes it all more flexible when compiling #Javascript manually into Typescript, or to make safety stronger!  
+
+In the Typescript projects I have worked with so far, it was sometimes too much pressure having to deal with all the code in Typescript, so it is cool to know that you don’t have to renounce Javascript totally in the project when you want.
+
+I’ve also gone through the second module of the course, and dug more into the types. At this stage I am, what I am really interested in is in the conflict of types when you don’t expect them, those you have in the middle of a long file that make you go crazy because you don’t know how to solve them. 
+
+For example, the ones that appear with the implicit ‘any’ which is like, when did the inferring happen? Or, ‘it is possibly null’ 😒
+That’s why it’s cool to know options such as #strictNullChecks, #strictFunctionTypes, and #noImplicitAny ,which can help identify and prevent type conflicts by enforcing stricter type checking rules. I don’t think they are in a standard Typescript configuration when you start a #NextJS project, for example. 
+
+That's why it may be cool to create a "tsconfig.json" file  from scratch, with the command: "tsc --init". It contains all the configuration options for the TypeScript compiler, so you are aware of them, and then you can choose which ones to uncomment to make them apply. 
+
+Below, you can see some playing with the type #enum , type guards and assertions.
+
+Other exercises done in the course: https://learn.microsoft.com/en-us/training/modules/typescript-declare-variable-types/8-types-lab
+
+***
+
+
