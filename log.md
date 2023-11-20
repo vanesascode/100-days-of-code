@@ -1666,4 +1666,23 @@ Other exercises done in the course: https://learn.microsoft.com/en-us/training/m
 
 ***
 
+### Day 9️⃣8️⃣: Nov 20, 2023 - #Typescript #interface
 
+So following the module 3 of the Microsoft course…
+
+Interfaces in TypeScript are a way to define the structure or shape of objects and describe their properties and return types. They provide type checking and Intellisense benefits, ensuring that your code is more robust and less prone to errors. 💪
+
+One interesting aspect of TypeScript is its use of a #structural type system. This means that two types are considered compatible if their members (properties and methods) have compatible types. So even if two types are defined separately or come from different inheritance hierarchies, as long as they have the same structure or shape, TypeScript considers them to be compatible.
+
+Type aliases are another way to define types in TypeScript, but they have some subtle differences compared to interfaces. While type aliases can define composite types and primitive types, interfaces are specifically used to describe objects, as mentioned before. One important distinction is that interfaces are always extendable, allowing you to add new properties, while type aliases cannot be reopened to add new properties. 🤔
+
+In TypeScript, it's recommended not to start interfaces with the letter "I" to avoid unnecessary verbosity and make the code more readable. Instead, use descriptive and meaningful names that convey the purpose or functionality of the interface.🤭
+#Index #signatures are another feature of interfaces that allow you to define dynamic property names and their corresponding types for an object or interface.
+
+Interfaces can be used to describe the return types of JavaScript #APIs, providing strong typing for the response and enabling better type checking and code completion.
+
+To apply an interface to a class, you use the #implements keyword followed by the interface name after the class name. TypeScript will then check and ensure that the class implements all the properties and methods defined in the interface, while still allowing you to add extra ones if needed.
+
+My complete notes with extra examples: https://github.com/vanesascode/typescript-microsoft-course-build-javascript-applications-using-typescript/blob/main/module03.md
+
+***
