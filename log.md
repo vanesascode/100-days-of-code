@@ -1686,3 +1686,12 @@ To apply an interface to a class, you use the #implements keyword followed by th
 My complete notes with extra examples: https://github.com/vanesascode/typescript-microsoft-course-build-javascript-applications-using-typescript/blob/main/module03.md
 
 ***
+
+### Day 9️⃣9️⃣: Nov 21, 2023 - 4geeks Academy final project
+
+Worked on endpoints and functions to relate the events a user attends and so the user can check them. Didn’t finish the whole flow since I haven’t been able to make the logic I want to add, along with the code that is added already. Also, when most of the code is made by other people, things slow down. 
+
+I hope to have something more than a picture tomorrow. Fingers crossed! 
+
+***
+
