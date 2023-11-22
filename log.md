@@ -1695,3 +1695,19 @@ I hope to have something more than a picture tomorrow. Fingers crossed!
 
 ***
 
+### Day 1️⃣0️⃣0️⃣ #100DaysOfCode challenge - Finished the challenge! 🎉
+
+To finish the challenge, I'm happy to show you the video below that shows that I got over the block I had yesterday, and that shows that I was able to make some progress with my part in the project we are building as a team at #4geeksAcademy.
+
+👉 And now, about the challenge itself…
+Even though I was coding everyday anyway, because I am studying a Bootcamp, it was a great challenge to post “something” everyday. Because not everyday you can show some visible progress, even if you spend the whole day solving problems with your code to get what you want to build. 
+
+👉 However, the posting is not finished…
+
+Since, of course, I want to continue learning and building things, and showing the world about it. So I’ll be posting from time to time what I am doing at the moment. 
+
+👉 And of course, I want to thank…
+
+The people that were following me, liking and commenting on my posts throughout the whole challenge. You really motivated me every day to continue it and to achieve the point I am right now with programming ❤️
+
+*** 
